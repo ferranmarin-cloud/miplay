@@ -113,7 +113,7 @@ http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 
 #EXTINF:-1 radio="true" tvg-id="RNE.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="RADIO" tvg-name="RADIO Nacional",Radio Nacional
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r1_main.m3u8
-#EXTINF:-1 radio="true" tvg-id="RNE3.Radio" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="Música" tvg-name="RADIO 3 RNE",Radio 3 RNE
+#EXTINF:-1 radio="true" tvg-id="RNE3.Radio" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="MÚSICA" tvg-name="RADIO 3 RNE",Radio 3 RNE
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8
 #EXTINF:-1 radio="true" tvg-id="RADIO4RNE.Radio" tvg-logo="https://graph.facebook.com/Radio4RNE/picture?width=200&height=200" group-title="RADIO" tvg-name="Ràdio 4 RNE",Ràdio 4 RNE
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r4_main.m3u8
@@ -121,7 +121,7 @@ https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r4_main.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r5_madrid_main.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioExterior/picture?width=200&height=200" group-title="RADIO" tvg-name="RADIO Exterior",Radio Exterior
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_re_main.m3u8
-#EXTINF:-1 radio="true" tvg-id="RNEClasica.Radio" tvg-logo="https://graph.facebook.com/radioclasicartve/picture?width=200&height=200" group-title="Música" tvg-name="RADIO Clásica RNE",Radio Clásica RNE
+#EXTINF:-1 radio="true" tvg-id="RNEClasica.Radio" tvg-logo="https://graph.facebook.com/radioclasicartve/picture?width=200&height=200" group-title="MÚSICA" tvg-name="RADIO Clásica RNE",Radio Clásica RNE
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r2_main.m3u8
 #EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="RADIO" tvg-name="SER",SER
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
@@ -848,9 +848,9 @@ https://ztnr.rtve.es/ztnr/6924117.m3u8
 #EXTINF:-1 tvg-id="RTVE_LateXou.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="FAST" tvg-name="RTVE Late Xou",RTVE Late Xou
 https://ztnr.rtve.es/ztnr/2472037.m3u8
 
-#EXTINF:-1 tvg-id="BIKINI FM" tvg-logo="https://cdn-profiles.tunein.com/s199413/images/logod.png?t=638116970160000000?width=200&height=200" group-title="Música" tvg-name="BIKINI FM",BIKINI FM
+#EXTINF:-1 tvg-id="BIKINI FM" tvg-logo="https://cdn-profiles.tunein.com/s199413/images/logod.png?t=638116970160000000?width=200&height=200" group-title="MÚSICA" tvg-name="BIKINI FM",BIKINI FM
 https://stream.emisorasmusicales.net/listen/bikini_fm/bikinifm-vlc.mp3
-#EXTINF:-1 tvg-id="VIRGIN RADIO" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/Virgin-Radio_Logo_Main_Screen.png?t=638116970160000000?width=200&height=200" group-title="Música" tvg-name="VIRGIN RADIO",VIRGIN RADIO
+#EXTINF:-1 tvg-id="VIRGIN RADIO" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/Virgin-Radio_Logo_Main_Screen.png?t=638116970160000000?width=200&height=200" group-title="MÚSICA" tvg-name="VIRGIN RADIO",VIRGIN RADIO
 https://radio.virginradio.co.uk/stream
 #EXTINF:-1 tvg-id="BBC Radio 1" tvg-logo="https://www.musicweek.com/cimages/7d17222dce3b0be95851547713bc8e35.png?t=638116970160000000?width=200&height=200" group-title="RADIO" tvg-name="BBC Radio 1",BBC Radio 1
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_one.m3u8
@@ -874,5 +874,5 @@ https://cdn-peer031.streaming-pro.com:8058/vaughanradio.mp3
 https://tunein.cdnstream1.com/3519_96.aac
 #EXTINF:-1 tvg-id="France Info" tvg-logo="https://s.rfi.fr/media/display/edc8a1b8-0fd0-11ea-b422-005056bf7c53/w:980/p:16x9/Logo_France_Info_1_0.png?width=200&height=200" group-title="RADIO" tvg-name="France Info",France Info
 https://icecast.radiofrance.fr/franceinfo-midfi.mp3
-#EXTINF:-1 tvg-id="KIIS FM" tvg-logo="https://support.musicgateway.com/wp-content/uploads/2020/08/800-x-500-1.png?width=200&height=200" group-title="Música" tvg-name="KIIS FM",KIIS FM
+#EXTINF:-1 tvg-id="KIIS FM" tvg-logo="https://support.musicgateway.com/wp-content/uploads/2020/08/800-x-500-1.png?width=200&height=200" group-title="MÚSICA" tvg-name="KIIS FM",KIIS FM
 http://sv2.hostpleng.com:8121/stream
