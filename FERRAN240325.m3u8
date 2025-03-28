@@ -121,7 +121,7 @@ https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r4_main.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r5_madrid_main.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioExterior/picture?width=200&height=200" group-title="Radio" tvg-name="Radio Exterior",Radio Exterior
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_re_main.m3u8
-#EXTINF:-1 radio="true" tvg-id="RNEClasica.Radio" tvg-logo="https://graph.facebook.com/radioclasicartve/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Radio Clásica RNE",Radio Clásica RNE
+#EXTINF:-1 radio="true" tvg-id="RNEClasica.Radio" tvg-logo="https://graph.facebook.com/radioclasicartve/picture?width=200&height=200" group-title="Música" tvg-name="Radio Clásica RNE",Radio Clásica RNE
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r2_main.m3u8
 #EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio" tvg-name="SER",SER
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
