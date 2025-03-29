@@ -120,17 +120,17 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png?width=200&height=200" group-title="TV INT'L",RT en Español (1080p) [Geo-blocked]
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="AFGAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="TV INT'L",Afganistán International
+#EXTINF:-1 tvg-id="AFGAN" tvg-logo="https://i0.wp.com/www.afghanlive.tv/wp-content/uploads/2020/05/afghanistan-international-tv.png?width=200&height=200" group-title="TV INT'L",Afganistán International
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="UniversalCinema.us" tvg-logo="https://i.imgur.com/XxfET68.png?width=200&height=200" group-title="CINE",Universal Cinema (480p)
 http://190.2.212.209:8050/play/a0q3
 #EXTINF:-1 tvg-id="SundanceTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png?width=200&height=200" group-title="CINE",Sundance TV East
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
-#EXTINF:-1 tvg-id="TMZ" tvg-logo="https://www.kindpng.com/picc/m/403-4034745_tmz-logo-png-transparent-png.png?width=200&height=200" group-title="TV",TMZ
+#EXTINF:-1 tvg-id="TMZ" tvg-logo="https://www.kindpng.com/picc/m/403-4034745_tmz-logo-png-transparent-png.png?width=200&height=200" group-title="TV INT'L",TMZ
 https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
-#EXTINF:-1 tvg-id="ME TV" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/2/21/MeTV_logo_2014.png/revision/latest??width=200&height=200" group-title="TV",ME TV
+#EXTINF:-1 tvg-id="ME TV" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/2/21/MeTV_logo_2014.png/revision/latest??width=200&height=200" group-title="TV INT'L",ME TV
 https://cvtv.cvalley.net/hls/KMBCMeTV/live/pkgKMBCMeTVLo.m3u8
-#EXTINF:-1 tvg-id="ION PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png?width=200&height=200" group-title="TV",ION PLUS
+#EXTINF:-1 tvg-id="ION PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png?width=200&height=200" group-title="TV INT'L",ION PLUS
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 
 #EXTINF:-1 radio="true" tvg-id="RNE.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="RADIO" tvg-name="RADIO Nacional",Radio Nacional
