@@ -116,6 +116,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="TV INT'L",RT en Español (1080p) [Geo-blocked]
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="AFGAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="TV INT'L",Afganistán International
+https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="UniversalCinema.us" tvg-logo="https://i.imgur.com/XxfET68.png" group-title="CINE",Universal Cinema (480p)
 http://190.2.212.209:8050/play/a0q3
 #EXTINF:-1 tvg-id="SundanceTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png" group-title="CINE",Sundance TV East
