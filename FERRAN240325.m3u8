@@ -101,8 +101,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png?width=200&height=200" group-title="TV INT'L",Fox News Channel (144p)
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="USANOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png?width=200&height=200" group-title="TV INT'L",tvg-name:"FOX Live Now", Fox Live Now
-https://dcs-live-ue1.mp.lura.live/server/play/5Awwm3GfagVzfpdA/rendition.m3u8?track=video-0&anvsid=m177618714-necd2e3e964aaecef93d4ef3b672d7093&ts=1743007676&anvtrid=79343e9e5d71f5827c237fa326898547
-#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png?width=200&height=200" group-title="TV INT'L",NBC News Now
+https://dcs-live-ue1.mp.lura.live/server/play/5Awwm3GfagVzfpdA/rendition.m3u8?track=video-0&anvsid=m177618733-n8ccfa00f7c0924dc941a99bda8c0ac91&ts=1743267608&anvtrid=60a4f117219791dc89cc703edfb526fc#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png?width=200&height=200" group-title="TV INT'L",NBC News Now
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 #EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://i.imgur.com/tuP9GW8.png?width=200&height=200" group-title="TV INT'L",Cheddar News
 https://cheddar-us.samsung.wurl.tv/playlist.m3u8
