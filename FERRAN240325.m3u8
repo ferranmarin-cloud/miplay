@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml,https://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Spain/bomcine.com.channels.xml"
+#EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TV" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TV" tvg-name="La 2",La 2
@@ -22,9 +22,9 @@ http://185.189.225.150:85/CuatroHD/index.m3u8
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:-1, tvg-id="FDF.TV" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2009/08/factoria_de_ficcion_logo.jpg?width=200&height=200" group-title="TV" tvg-name="FDF",FDF
 http://185.189.225.150:85/fdf/index.m3u8
-#EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://i.imgur.com/aKV5voq.png?width=200&height=200" group-title="TV",La Sexta (720p)
+#EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://i.imgur.com/aKV5voq.png?width=200&height=200" group-title="TV",La Sexta
 http://185.189.225.150:85/LaSexta/index.m3u8
-#EXTINF:-1 tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg?width=200&height=200" group-title="CINE",8madrid TV (720p)
+#EXTINF:-1 tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg?width=200&height=200" group-title="CINE",8madrid TV
 http://185.189.225.150:85/8madrid/index.m3u8
 #EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png?width=200&height=200" group-title="CINE",Bom Cine
 http://185.189.225.150:85/BOM/index.m3u8
