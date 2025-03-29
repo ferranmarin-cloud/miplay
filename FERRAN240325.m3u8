@@ -10,16 +10,26 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1, tvg-id="Antena3.TV" tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg?width=200&height=200" group-title="TV" tvg-name="Antena 3",Antena 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
+#EXTINF:-1, tvg-id="NOVA.TV" tvg-logo="https://fotografias.antena3.com/clipping/cmsimages01/2015/03/06/AB8DB790-3557-4F20-95C3-830A2A8A3970/58.jpg?width=200&height=200" group-title="TV" tvg-name="NOVA",NOVA
+http://185.189.225.150:85/nova/index.m3u8
+#EXTINF:-1, tvg-id="NEOX.TV" tvg-logo="https://static.grupojoly.com/clip/6dd1583c-1648-46ec-a6c3-04a88a13d9a0_source-aspect-ratio_default_0.jpg?width=200&height=200" group-title="TV" tvg-name="NEOX",NEOX
+http://185.189.225.150:85/neox/index.m3u8
+#EXTINF:-1, tvg-id="MEGA.TV" tvg-logo="http://arabast.com/wp-content/uploads/2015/06/Logotipo-de-Mega.jpg?width=200&height=200" group-title="TV" tvg-name="MEGA",MEGA
+http://185.189.225.150:85/mega/index.m3u8
 #EXTINF:-1, tvg-id="Cuatro.TV" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_circular_500_-1_d4a5.png?width=200&height=200" group-title="TV" tvg-name="Cuatro",Cuatro
 http://185.189.225.150:85/CuatroHD/index.m3u8
 #EXTINF:-1, tvg-id="Telecinco.TV" tvg-logo="https://estaticos-cdn.prensaiberica.es/clip/d2cc7e1c-0945-40f3-b587-7abf2f36d608_16-9-discover-aspect-ratio_default_0.jpg?width=200&height=200" group-title="TV" tvg-name="Telecinco",Telecinco
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
-#EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="TV",La Sexta (720p)
+#EXTINF:-1, tvg-id="FDF.TV" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2009/08/factoria_de_ficcion_logo.jpg?width=200&height=200" group-title="TV" tvg-name="FDF",FDF
+http://185.189.225.150:85/fdf/index.m3u8
+#EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://i.imgur.com/aKV5voq.png?width=200&height=200" group-title="TV",La Sexta (720p)
 http://185.189.225.150:85/LaSexta/index.m3u8
-#EXTINF:-1 tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg" group-title="CINE",8madrid TV (720p)
+#EXTINF:-1 tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg?width=200&height=200" group-title="CINE",8madrid TV (720p)
 http://185.189.225.150:85/8madrid/index.m3u8
-#EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="CINE",Bom Cine (576p)
+#EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png?width=200&height=200" group-title="CINE",Bom Cine
 http://185.189.225.150:85/BOM/index.m3u8
+#EXTINF:-1 tvg-id="AMC.es" tvg-logo="https://logo-marque.com/wp-content/uploads/2022/01/AMC-Logo-2002-2013.jpg?width=200&height=200" group-title="CINE",AMC
+http://vegafibratv.com:8085/AMC/index.m3u8
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="TV" tvg-name="TRECE",TRECE
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="TV" tvg-name="El Toro TV",El Toro TV
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
