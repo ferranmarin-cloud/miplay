@@ -950,7 +950,7 @@ http://streaming.exclusive.radio/er/shakira/icecast.audio
 http://streaming.exclusive.radio/er/sherylcrow/icecast.audio
 #EXTINF:-1 tvg-logo="https://biographiesareus.com/wp-content/uploads/2025/03/sia-1024x576.jpg?width=200&height=200" group-title="TEMA" tvg-name="SIA",SIA
 http://streaming.exclusive.radio/er/sia/icecast.audio
-#EXTINF:-1 tvg-logo="https://biographiesareus.com/wp-content/uploads/2025/03/sia-1024x576.jpg?width=200&height=200" group-title="TEMA" tvg-name="THE BEATLES",THE BEATLES
+#EXTINF:-1 tvg-logo="https://salvemusic.com.ua/wp-content/uploads/2019/06/beatles-77-scaled.jpg?width=200&height=200" group-title="TEMA" tvg-name="THE BEATLES",THE BEATLES
 http://streaming.exclusive.radio/er/beatles/icecast.audio
-#EXTINF:-1 tvg-logo="https://biographiesareus.com/wp-content/uploads/2025/03/sia-1024x576.jpg?width=200&height=200" group-title="TEMA" tvg-name="1962",1962
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/009/681/004/original/born-in-1962-vintage-retro-birthday-original-1962-aged-to-perfection-free-vector.jpg?width=200&height=200" group-title="TEMA" tvg-name="1962",1962
 https://streaming.ticktock.radio/tt-app/1962/icecast.audio
