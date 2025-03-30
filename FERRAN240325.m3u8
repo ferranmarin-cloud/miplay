@@ -906,13 +906,13 @@ https://kissfm.kissfmradio.cires21.com/kissfm.mp3
 https://stream.flaixfm.cat/icecast
 #EXTINF:-1 radio="true" tvg-id="Flaixbac.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1164926188307001344/PtDeZDOO_200x200.jpg" group-title="Música" tvg-name="Flaixbac",Flaixbac
 https://stream.flaixbac.cat/icecast
-#EXTINF:-1 radio="true" tvg-id="HitFM.Radio" tvg-logo="https://graph.facebook.com/hitfm.es/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Hit FM",Hit FM
+#EXTINF:-1 radio="true" tvg-id="HitFM.Radio" tvg-logo="https://graph.facebook.com/hitfm.es/picture?width=200&height=200" group-title="Música" tvg-name="Hit FM",Hit FM
 https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
-#EXTINF:-1 radio="true" tvg-id="MegaStar.Radio" tvg-logo="https://graph.facebook.com/MegaStarFM/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="MegaStar FM",MegaStar FM
+#EXTINF:-1 radio="true" tvg-id="MegaStar.Radio" tvg-logo="https://graph.facebook.com/MegaStarFM/picture?width=200&height=200" group-title="Música" tvg-name="MegaStar FM",MegaStar FM
 https://megastar-cope.flumotion.com/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-id="MelodiaFM.Radio" tvg-logo="https://graph.facebook.com/tumelodiafm/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Melodía FM",Melodía FM
+#EXTINF:-1 radio="true" tvg-id="MelodiaFM.Radio" tvg-logo="https://graph.facebook.com/tumelodiafm/picture?width=200&height=200" group-title="Música" tvg-name="Melodía FM",Melodía FM
 https://atres-live.melodia-fm.com/live/melodiafm/master.m3u8
-
-
-
-
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radiomontecarlo/picture?width=200&height=200" group-title="Radio" tvg-name="Radio Montecarlo",Radio Montecarlo
+https://icy.unitedradio.it/RMC.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioklara/picture?width=200&height=200" group-title="Radio" tvg-name="Ràdio Klara",Ràdio Klara
+https://cervera.eldialdigital.com:21111/stream
