@@ -31,6 +31,7 @@ http://185.189.225.150:85/BOM/index.m3u8
 #EXTINF:-1 tvg-id="AMC.es" tvg-logo="https://logo-marque.com/wp-content/uploads/2022/01/AMC-Logo-2002-2013.jpg?width=200&height=200" group-title="CINE",AMC
 http://vegafibratv.com:8085/AMC/index.m3u8
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="TV" tvg-name="TRECE",TRECE
+https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="TV" tvg-name="El Toro TV",El Toro TV
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="TV" tvg-name="RNE para todos",RNE para todos
