@@ -918,5 +918,39 @@ https://atres-live.melodia-fm.com/live/melodiafm/master.m3u8
 https://icy.unitedradio.it/RMC.mp3
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radioklara/picture?width=200&height=200" group-title="RADIO" tvg-name="Ràdio Klara",Ràdio Klara
 https://cervera.eldialdigital.com:21111/stream
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1438771594952839170/aBOGp4Rl_200x200.jpg" group-title="RADIO" tvg-name="Plaza Radio",Plaza Radio
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1438771594952839170/aBOGp4Rl_200x200.jpg?width=200&height=200" group-title="RADIO" tvg-name="Plaza Radio",Plaza Radio
 https://stream1.solstreaming.com:8112/stream
+#EXTINF:-1 tvg-logo="https://www.globalsoundgroup.com/wp-content/uploads/2021/04/Radio-Caroline.jpeg?width=200&height=200" group-title="MÚSICA" tvg-name="Radio Caroline",Radio Caroline
+http://sc6.radiocaroline.net:8040/stream.mp3
+#EXTINF:-1 tvg-logo="https://static1.purepeople.com/articles/5/26/49/25/@/3747226-logo-de-la-station-de-radio-rtl-950x0-2.jpeg?width=200&height=200" group-title="MÚSICA" tvg-name="RTL",RTL
+https://streamer-02.rtl.fr/rtl-1-44-128
+#EXTINF:-1 tvg-logo="https://images.hdqwalls.com/download/dua-lipa-2018-new-5k-qt-1920x1080.jpg?width=200&height=200" group-title="TEMA" tvg-name="DUA LIPA",DUA LIPA
+http://streaming.exclusive.radio/er/dualipa/icecast.audio
+#EXTINF:-1 tvg-logo="https://d3d0lqu00lnqvz.cloudfront.net/media/media/3b45ba41-d7eb-4532-ac4e-4e676e504c95.jpg?width=200&height=200" group-title="TEMA" tvg-name="ALANIS MORISSETTE",ALANIS MORISSETTE
+http://streaming.exclusive.radio/er/alanismorissette/Icecast.audio
+#EXTINF:-1 tvg-logo="https://www.nme.com/wp-content/uploads/2022/05/Springsteen-2021.jpg?width=200&height=200" group-title="TEMA" tvg-name="BRUCE SPRINGSTEEN",BRUCE SPRINGSTEEN
+http://streaming.exclusive.radio/er/springsteen/icecast.audio
+#EXTINF:-1 tvg-logo="https://cdn.wegow.com/media/artists/carly-simon/carly-simon-1588753265.3617656.2560x1440.jpg?width=200&height=200" group-title="TEMA" tvg-name="CARLY SIMON",CARLY SIMON
+http://streaming.exclusive.radio/er/carlysimon/icecast.audio
+#EXTINF:-1 tvg-logo="https://www.gannett-cdn.com/-mm-/7c2c00b4c4f72a8199cf7bee9f3a58dd1752ad85/c=113-0-3087-1680/local/-/media/2018/01/09/Naples/Naples/636510835519037851-jamestaylor.jpg?width=200&height=200" group-title="TEMA" tvg-name="JAMES TAYLOR",JAMES TAYLOR
+http://streaming.exclusive.radio/er/jamestaylor/icecast.audio
+#EXTINF:-1 tvg-logo="https://images.radio-canada.ca/v1/ici-premiere/16x9/histo-joan-baez-chanteuse.jpg?width=200&height=200" group-title="TEMA" tvg-name="JOAN BAEZ",JOAN BAEZ
+http://streaming.exclusive.radio/er/joanbaez/icecast.audio
+#EXTINF:-1 tvg-logo="https://i.insider.com/63fd1865d5d80a0018276857?width=200&height=200" group-title="TEMA" tvg-name="KATY PERRY",KATY PERRY
+http://streaming.exclusive.radio/er/katyperry/icecast.audio
+#EXTINF:-1 tvg-logo="https://www.aceshowbiz.com/display/images/photo/2022/09/19/00192384.jpg?width=200&height=200" group-title="TEMA" tvg-name="LADY GAGA",LADY GAGA
+http://streaming.exclusive.radio/er/ladygaga/icecast.audio
+#EXTINF:-1 tvg-logo="https://images2.alphacoders.com/545/thumb-1920-545505.jpg?width=200&height=200" group-title="TEMA" tvg-name=",MADONNA",MADONNA
+http://streaming.exclusive.radio/er/madonna/icecast.audio
+#EXTINF:-1 tvg-logo="https://www.highreshdwallpapers.com/wp-content/uploads/2014/01/Miley-Cyrus-HD-Wallpaper-Pack-1.png?width=200&height=200" group-title="TEMA" tvg-name="MILEY CYRUS",MILEY CYRUS
+http://streaming.exclusive.radio/er/mileycyrus/icecast.audio
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dS9H96b_-DM/Vlk-UriSjhI/AAAAAAAATaw/Ql7TWBwG4OA/s1600/ska.jpg?width=200&height=200" group-title="TEMA" tvg-name="SHAKIRA",SHAKIRA
+http://streaming.exclusive.radio/er/shakira/icecast.audio
+#EXTINF:-1 tvg-logo="https://images2.alphacoders.com/545/thumb-1920-545505.jpg?width=200&height=200" group-title="TEMA" tvg-name="SHERYL CROW",SHERYL CROW
+http://streaming.exclusive.radio/er/sherylcrow/icecast.audio
+#EXTINF:-1 tvg-logo="https://biographiesareus.com/wp-content/uploads/2025/03/sia-1024x576.jpg?width=200&height=200" group-title="TEMA" tvg-name="SIA",SIA
+http://streaming.exclusive.radio/er/sia/icecast.audio
+#EXTINF:-1 tvg-logo="https://biographiesareus.com/wp-content/uploads/2025/03/sia-1024x576.jpg?width=200&height=200" group-title="TEMA" tvg-name="THE BEATLES",THE BEATLES
+http://streaming.exclusive.radio/er/beatles/icecast.audio
+#EXTINF:-1 tvg-logo="https://biographiesareus.com/wp-content/uploads/2025/03/sia-1024x576.jpg?width=200&height=200" group-title="TEMA" tvg-name="1962",1962
+https://streaming.ticktock.radio/tt-app/1962/icecast.audio
