@@ -895,4 +895,4 @@ https://tunein.cdnstream1.com/3519_96.aac
 #EXTINF:-1 tvg-id="France Info" tvg-logo="https://s.rfi.fr/media/display/edc8a1b8-0fd0-11ea-b422-005056bf7c53/w:980/p:16x9/Logo_France_Info_1_0.png?width=200&height=200" group-title="RADIO" tvg-name="France Info",France Info
 https://icecast.radiofrance.fr/franceinfo-midfi.mp3
 #EXTINF:-1 tvg-id="KIIS FM" tvg-logo="https://support.musicgateway.com/wp-content/uploads/2020/08/800-x-500-1.png?width=200&height=200" group-title="MÚSICA" tvg-name="KIIS FM",KIIS FM
-https://delivery-cdn-cf.adswizz.com/proxidigital_newEnco/ad_476272_47df3f937c39b11b24aa77ad11db01df_862c32a8026fd29ed4a35fc369cf2f23_91.mp3
+https://n02a-e2.revma.ihrhls.com/zc185/2_1dwu0pvdgarr202/playlist.m3u8
