@@ -896,23 +896,23 @@ https://tunein.cdnstream1.com/3519_96.aac
 https://icecast.radiofrance.fr/franceinfo-midfi.mp3
 #EXTINF:-1 tvg-id="KIIS FM" tvg-logo="https://support.musicgateway.com/wp-content/uploads/2020/08/800-x-500-1.png?width=200&height=200" group-title="MÚSICA" tvg-name="KIIS FM",KIIS FM
 https://n02a-e2.revma.ihrhls.com/zc185/2_1dwu0pvdgarr202/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-id="Los40.Radio" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" group-title="Música" tvg-name="LOS40",LOS40
+#EXTINF:-1 tvg-id="Los40.Radio" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" group-title="Música" tvg-name="LOS40",LOS40
 https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
-#EXTINF:-1 radio="true" tvg-id="Los40Classic.Radio" tvg-logo="https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200" group-title="Música" tvg-name="LOS40 Classic",LOS40 Classic
+#EXTINF:-1 tvg-id="Los40Classic.Radio" tvg-logo="https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200" group-title="Música" tvg-name="LOS40 Classic",LOS40 Classic
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
-#EXTINF:-1 radio="true" tvg-id="KissFm.Radio" tvg-logo="https://graph.facebook.com/kissfm.es/picture?width=200&height=200" group-title="Música" tvg-name="Kiss FM",Kiss FM
+#EXTINF:-1 tvg-id="KissFm.Radio" tvg-logo="https://graph.facebook.com/kissfm.es/picture?width=200&height=200" group-title="Música" tvg-name="Kiss FM",Kiss FM
 https://kissfm.kissfmradio.cires21.com/kissfm.mp3
-#EXTINF:-1 radio="true" tvg-id="FlaixFM.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1051761197127745541/whMnn4_K_200x200.jpg" group-title="Música" tvg-name="Flaix FM",Flaix FM
+#EXTINF:-1 tvg-id="FlaixFM.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1051761197127745541/whMnn4_K_200x200.jpg" group-title="Música" tvg-name="Flaix FM",Flaix FM
 https://stream.flaixfm.cat/icecast
-#EXTINF:-1 radio="true" tvg-id="Flaixbac.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1164926188307001344/PtDeZDOO_200x200.jpg" group-title="Música" tvg-name="Flaixbac",Flaixbac
+#EXTINF:-1 tvg-id="Flaixbac.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1164926188307001344/PtDeZDOO_200x200.jpg" group-title="Música" tvg-name="Flaixbac",Flaixbac
 https://stream.flaixbac.cat/icecast
-#EXTINF:-1 radio="true" tvg-id="HitFM.Radio" tvg-logo="https://graph.facebook.com/hitfm.es/picture?width=200&height=200" group-title="Música" tvg-name="Hit FM",Hit FM
+#EXTINF:-1 tvg-id="HitFM.Radio" tvg-logo="https://graph.facebook.com/hitfm.es/picture?width=200&height=200" group-title="Música" tvg-name="Hit FM",Hit FM
 https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
-#EXTINF:-1 radio="true" tvg-id="MegaStar.Radio" tvg-logo="https://graph.facebook.com/MegaStarFM/picture?width=200&height=200" group-title="Música" tvg-name="MegaStar FM",MegaStar FM
+#EXTINF:-1 tvg-id="MegaStar.Radio" tvg-logo="https://graph.facebook.com/MegaStarFM/picture?width=200&height=200" group-title="Música" tvg-name="MegaStar FM",MegaStar FM
 https://megastar-cope.flumotion.com/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-id="MelodiaFM.Radio" tvg-logo="https://graph.facebook.com/tumelodiafm/picture?width=200&height=200" group-title="Música" tvg-name="Melodía FM",Melodía FM
+#EXTINF:-1 tvg-id="MelodiaFM.Radio" tvg-logo="https://graph.facebook.com/tumelodiafm/picture?width=200&height=200" group-title="Música" tvg-name="Melodía FM",Melodía FM
 https://atres-live.melodia-fm.com/live/melodiafm/master.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radiomontecarlo/picture?width=200&height=200" group-title="Radio" tvg-name="Radio Montecarlo",Radio Montecarlo
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiomontecarlo/picture?width=200&height=200" group-title="Radio" tvg-name="Radio Montecarlo",Radio Montecarlo
 https://icy.unitedradio.it/RMC.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioklara/picture?width=200&height=200" group-title="Radio" tvg-name="Ràdio Klara",Ràdio Klara
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioklara/picture?width=200&height=200" group-title="Radio" tvg-name="Ràdio Klara",Ràdio Klara
 https://cervera.eldialdigital.com:21111/stream
