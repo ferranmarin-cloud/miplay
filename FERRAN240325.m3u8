@@ -912,7 +912,7 @@ https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmrad
 https://megastar-cope.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="MelodiaFM.Radio" tvg-logo="https://graph.facebook.com/tumelodiafm/picture?width=200&height=200" group-title="Música" tvg-name="Melodía FM",Melodía FM
 https://atres-live.melodia-fm.com/live/melodiafm/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiomontecarlo/picture?width=200&height=200" group-title="Radio" tvg-name="Radio Montecarlo",Radio Montecarlo
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiomontecarlo/picture?width=200&height=200" group-title="RADIO" tvg-name="Radio Montecarlo",Radio Montecarlo
 https://icy.unitedradio.it/RMC.mp3
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioklara/picture?width=200&height=200" group-title="Radio" tvg-name="Ràdio Klara",Ràdio Klara
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioklara/picture?width=200&height=200" group-title="RADIO" tvg-name="Ràdio Klara",Ràdio Klara
 https://cervera.eldialdigital.com:21111/stream
