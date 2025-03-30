@@ -956,59 +956,59 @@ http://streaming.exclusive.radio/er/beatles/icecast.audio
 https://streaming.ticktock.radio/tt-app/1962/icecast.audio
 #EXTINF:-1, tvg-id="HOLLYWOOD.TV" tvg-logo="https://amcnetworks.es/wp-content/uploads/2018/08/HOLLYWOOD.jpg?width=200&height=200" group-title="GRUPO" tvg-name="Hollywood",Hollywood
 http://185.189.225.150:85/Hollywood/index.m3u8
-#EXTINF:-1,Eurosport2 HD
+#EXTINF:-1,Eurosport2 HD group-title="GRUPO" 
 185.189.225.150:85/Eurosport2/index.m3u8
-#EXTINF:-1,AXN 
+#EXTINF:-1,AXN group-title="GRUPO" 
 185.189.225.150:85/AXN/index.m3u8
-#EXTINF:-1,BBC1 HD 
+#EXTINF:-1,BBC1 HD group-title="GRUPO" 
 185.189.225.150:85/BBC1/index.m3u8
-#EXTINF:-1,AMC HD 
+#EXTINF:-1,AMC HD group-title="GRUPO" 
 185.189.225.150:85/AMC/index.m3u8
-#EXTINF:-1,boing HD 
+#EXTINF:-1,boing HD group-title="GRUPO" 
 185.189.225.150:85/boing/index.m3u8
-#EXTINF:-1,TCM 
+#EXTINF:-1,TCM group-title="GRUPO" 
 185.189.225.150:85/TCM/index.m3u8
-#EXTINF:-1,somos 
+#EXTINF:-1,somos group-title="GRUPO" 
 185.189.225.150:85/somos/index.m3u8
-#EXTINF:-1,BabyTV 
+#EXTINF:-1,BabyTV group-title="GRUPO" 
 185.189.225.150:85/BabyTV/index.m3u8
-#EXTINF:-1,star 
+#EXTINF:-1,star group-title="GRUPO" 
 185.189.225.150:85/star/index.m3u8
-#EXTINF:-1,RTL 
+#EXTINF:-1,RTL group-title="GRUPO" 
 185.189.225.150:85/RTL/index.m3u8
-#EXTINF:-1,NationalGeographic 
+#EXTINF:-1,NationalGeographic group-title="GRUPO" 
 185.189.225.150:85/NationalGeographic/index.m3u8
-#EXTINF:-1,MTV 
+#EXTINF:-1,MTV group-title="GRUPO" 
 185.189.225.150:85/MTV/index.m3u8
-#EXTINF:-1,TV2 HD 
+#EXTINF:-1,TV2 HD group-title="GRUPO" 
 185.189.225.150:85/TV2/index.m3u8
-#EXTINF:-1,cctv 
+#EXTINF:-1,cctv group-title="GRUPO" 
 185.189.225.150:85/cctv/index.m3u8
-#EXTINF:-1,calle13 
+#EXTINF:-1,calle13 group-title="GRUPO" 
 185.189.225.150:85/calle13/index.m3u8
-#EXTINF:-1,comedycentral 
+#EXTINF:-1,comedycentral group-title="GRUPO" 
 185.189.225.150:85/comedycentral/index.m3u8
-#EXTINF:-1,foodnetwork 
+#EXTINF:-1,foodnetwork group-title="GRUPO" 
 185.189.225.150:85/foodnetwork/index.m3u8
-#EXTINF:-1,nickelodeon 
+#EXTINF:-1,nickelodeon group-title="GRUPO" 
 185.189.225.150:85/nickelodeon/index.m3u8
-#EXTINF:-1,mega 
+#EXTINF:-1,mega group-title="GRUPO" 
 185.189.225.150:85/mega/index.m3u8
-#EXTINF:-1,nova 
+#EXTINF:-1,nova group-title="GRUPO" 
 185.189.225.150:85/nova/index.m3u8
-#EXTINF:-1,odisea HD 
+#EXTINF:-1,odisea HD group-title="GRUPO" 
 185.189.225.150:85/odisea/index.m3u8
-#EXTINF:-1,syfy 
+#EXTINF:-1,syfy group-title="GRUPO" 
 185.189.225.150:85/syfy/index.m3u8
-#EXTINF:-1,tv3 HD 
+#EXTINF:-1,tv3 HD group-title="GRUPO" 
 185.189.225.150:85/tv3/index.m3u8
-#EXTINF:-1,natgeowild 
+#EXTINF:-1,natgeowild group-title="GRUPO" 
 185.189.225.150:85/natgeowild/index.m3u8
-#EXTINF:-1,Paramount HD 
+#EXTINF:-1,Paramount HD group-title="GRUPO" 
 185.189.225.150:85/Paramount/index.m3u8
-#EXTINF:-1,MTVHits 
+#EXTINF:-1,MTVHits group-title="GRUPO" 
 185.189.225.150:85/MTVHits/index.m3u8
-#EXTINF:-1,Eurosport1 HD 
+#EXTINF:-1,Eurosport1 HD group-title="GRUPO" 
 185.189.225.150:85/Eurosport1/index.m3u8
-#EXTINF:-1,12TV HD 
+#EXTINF:-1,12TV HD group-title="GRUPO" 
 185.189.225.150:85/12TV/index.m3u8
