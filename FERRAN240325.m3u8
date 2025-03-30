@@ -195,7 +195,7 @@ https://stream.revma.ihrhls.com/zc6043
 #EXTINF:-1 radio="true" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/MSNBC-Logo.png?width=200&height=200" group-title="RADIO" tvg-name=“MSNBC”,MSNBC
 https://19313.live.streamtheworld.com/NBC_MSNBCAAC/HLS/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s15289/images/logog.png?width=200&height=200" group-title="RADIO" tvg-name=“AFN ROTA”,AFN ROTA
-http://playerservices.streamtheworld.com/pls/AFNE_RTA.pls
+http://27823.live.streamtheworld.com:3690/AFNE_RTA_SC
 
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed SD" group-title="TV USA",A&E US Eastern Feed SD
 https://tvpass.org/live/AEEast/sd
