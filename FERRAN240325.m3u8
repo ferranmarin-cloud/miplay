@@ -954,7 +954,7 @@ http://streaming.exclusive.radio/er/sia/icecast.audio
 http://streaming.exclusive.radio/er/beatles/icecast.audio
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/009/681/004/original/born-in-1962-vintage-retro-birthday-original-1962-aged-to-perfection-free-vector.jpg?width=200&height=200" group-title="TEMA" tvg-name="1962",1962
 https://streaming.ticktock.radio/tt-app/1962/icecast.audio
-#EXTINF:-1,Hollywood HD 
+#EXTINF:-1,Hollywood HD group-title="GRUPO"
 185.189.225.150:85/Hollywood/index.m3u8 
 #EXTINF:-1,Eurosport2 HD 
 185.189.225.150:85/Eurosport2/index.m3u8 
