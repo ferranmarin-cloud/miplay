@@ -104,7 +104,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png?width=200&height=200" group-title="TV INT'L",Fox News Channel (144p)
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="USANOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png?width=200&height=200" group-title="TV INT'L",tvg-name:"FOX Live Now", Fox Live Now
-https://dcs-live-ue1.mp.lura.live/server/play/5Awwm3GfagVzfpdA/rendition.m3u8?track=video-0&anvsid=m177618733-n8ccfa00f7c0924dc941a99bda8c0ac91&ts=1743267608&anvtrid=60a4f117219791dc89cc703edfb526fc
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/05/nbc-news-now-logo.jpg?width=200&height=200" group-title="TV INT'L",tvg-name:"NBC News Now", NBC News Now
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 #EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://i.imgur.com/tuP9GW8.png?width=200&height=200" group-title="TV INT'L",Cheddar News
@@ -954,6 +954,8 @@ http://streaming.exclusive.radio/er/sia/icecast.audio
 http://streaming.exclusive.radio/er/beatles/icecast.audio
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/009/681/004/original/born-in-1962-vintage-retro-birthday-original-1962-aged-to-perfection-free-vector.jpg?width=200&height=200" group-title="TEMA" tvg-name="1962",1962
 https://streaming.ticktock.radio/tt-app/1962/icecast.audio
+#EXTINF:-1 group-title="CINE" tvg-name="Pluto Cine Clásico",Pluto Cine Clásico
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1, tvg-id="HOLLYWOOD.TV" tvg-logo="https://amcnetworks.es/wp-content/uploads/2018/08/HOLLYWOOD.jpg?width=200&height=200" group-title="GRUPO" tvg-name="Hollywood",Hollywood
 http://185.189.225.150:85/Hollywood/index.m3u8
 #EXTINF:-1,Eurosport2 HD group-title="GRUPO" tvg-name="Eurosport 2",Eurosport 2
