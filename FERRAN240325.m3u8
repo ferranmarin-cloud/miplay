@@ -198,6 +198,8 @@ https://stream.revma.ihrhls.com/zc6043
 https://19313.live.streamtheworld.com/NBC_MSNBCAAC/HLS/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s15289/images/logog.png?width=200&height=200" group-title="RADIO" tvg-name=“AFN ROTA”,AFN ROTA
 http://27823.live.streamtheworld.com:3690/AFNE_RTA_SC
+#EXTINF:-1 radio="true" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Los_40.svg?width=200&height=200" group-title="RADIO" tvg-name=“LOS 40 USA”,LOS 40 USA
+https://streams.streamkast.co/streamkast/los40/icecast.audio
 
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed SD" group-title="TV USA",A&E US Eastern Feed SD
 https://tvpass.org/live/AEEast/sd
