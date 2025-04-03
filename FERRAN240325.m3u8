@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+
 #Televisiones en general
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TV" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
@@ -136,6 +137,7 @@ https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
 https://cvtv.cvalley.net/hls/KMBCMeTV/live/pkgKMBCMeTVLo.m3u8
 #EXTINF:-1 tvg-id="ION PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png?width=200&height=200" group-title="TV INT'L",ION PLUS
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
+
 #Radios en general
 #EXTINF:-1 radio="true" tvg-id="RNE.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="RADIO" tvg-name="RADIO Nacional",Radio Nacional
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r1_main.m3u8
@@ -202,6 +204,7 @@ http://27823.live.streamtheworld.com:3690/AFNE_RTA_SC
 #EXTINF:-1 radio="true" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Los_40.svg?width=200&height=200" group-title="RADIO" tvg-name=“LOS 40 USA”,LOS 40 USA
 https://streams.streamkast.co/streamkast/los40/icecast.audio
 
+#TV PASS
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed SD" group-title="TV USA",A&E US Eastern Feed SD
 https://tvpass.org/live/AEEast/sd
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed HD" group-title="TV USA",A&E US Eastern Feed HD
@@ -835,7 +838,7 @@ https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network HD" group-title="TV USA",Yes Network HD
 https://tvpass.org/live/yes-network/hd
 
-
+#CANALES FAST ESPAÑA
 #EXTINF:-1 tvg-id="Flooxer.TV" tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="FAST" tvg-name="flooxer",flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 #EXTINF:-1 tvg-id="A3P_Clasicos.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="FAST" tvg-name="Atresplayer Clásicos",Atresplayer Clásicos
@@ -872,6 +875,7 @@ https://ztnr.rtve.es/ztnr/6922467.m3u8
 https://ztnr.rtve.es/ztnr/6924117.m3u8
 #EXTINF:-1 tvg-id="RTVE_LateXou.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="FAST" tvg-name="RTVE Late Xou",RTVE Late Xou
 https://ztnr.rtve.es/ztnr/2472037.m3u8
+
 # Musicales
 #EXTINF:-1 tvg-id="BIKINI FM" tvg-logo="https://cdn-profiles.tunein.com/s199413/images/logod.png?t=638116970160000000?width=200&height=200" group-title="MÚSICA" tvg-name="BIKINI FM",BIKINI FM
 https://stream.emisorasmusicales.net/listen/bikini_fm/bikinifm-vlc.mp3
@@ -961,6 +965,7 @@ https://streaming.ticktock.radio/tt-app/1962/icecast.audio
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="CINE" tvg-name="ALFRED HITCHCOCK PRESENTS",ALFRED HITCHCOCK PRESENTS
 https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
+
 # Lista Directa "GRUPO"
 #EXTINF:-1, tvg-id="HOLLYWOOD.TV" tvg-logo="https://amcnetworks.es/wp-content/uploads/2018/08/HOLLYWOOD.jpg?width=200&height=200" group-title="GRUPO" tvg-name="Hollywood",Hollywood
 http://185.189.225.150:85/Hollywood/index.m3u8
@@ -1020,6 +1025,7 @@ http://185.189.225.150:85/Hollywood/index.m3u8
 185.189.225.150:85/Eurosport1/index.m3u8
 #EXTINF:-1,12TV HD group-title="GRUPO" 
 185.189.225.150:85/12TV/index.m3u8
+
 # Todo XUMO
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us",AccuWeather Now [Geo-blocked]
 https://accuweather-xumo.amagi.tv/playlist.m3u8
