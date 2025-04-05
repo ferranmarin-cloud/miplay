@@ -969,8 +969,10 @@ https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
 # Lista Directa "GRUPO"
 #EXTINF:-1, tvg-id="HOLLYWOOD.TV" tvg-logo="https://amcnetworks.es/wp-content/uploads/2018/08/HOLLYWOOD.jpg?width=200&height=200" group-title="GRUPO" tvg-name="Hollywood",Hollywood
 http://185.189.225.150:85/Hollywood/index.m3u8
-#EXTINF:-1,Eurosport2 HD group-title="GRUPO" tvg-name="Eurosport 2",Eurosport 2
+#EXTINF:-1,tvg-id="EUROSPORT2.TV" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~196acf0142c66a68.png/1200x630/crop-from/top/quality/80/eurosport-2.png" group-title="GRUPO" tvg-name="Eurosport 2",Eurosport 2
 185.189.225.150:85/Eurosport2/index.m3u8
+
+
 #EXTINF:-1,AXN group-title="GRUPO" 
 185.189.225.150:85/AXN/index.m3u8
 #EXTINF:-1,BBC1 HD group-title="GRUPO" 
