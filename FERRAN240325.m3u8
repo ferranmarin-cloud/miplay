@@ -25,7 +25,7 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:-1 tvg-id="FDF.TV" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2009/08/factoria_de_ficcion_logo.jpg?width=200&height=200" group-title="TV" tvg-name="FDF",FDF
 http://185.189.225.150:85/fdf/index.m3u8
 #EXTINF:-1 tvg-id="Boing.TV" tvg-logo="http://www.ocendi.com/wp-content/themes/ocendi/style/post/2010/09/Logo_boing.jpg?width=200&height=200" group-title="TV" tvg-name="BOING",BOING
-185.189.225.150:85/boing/index.m3u8
+https://185.189.225.150:85/boing/index.m3u8
 #EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://i.imgur.com/aKV5voq.png?width=200&height=200" group-title="TV",La Sexta
 http://185.189.225.150:85/LaSexta/index.m3u8
 #EXTINF:-1 tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg?width=200&height=200" group-title="CINE",8madrid TV
@@ -39,7 +39,7 @@ https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/livel
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="TV" tvg-name="El Toro TV",El Toro TV
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="TV" tvg-name="RNE para todos",RNE para todos
-https://ztnr.rtve.es/ztnr/6688753.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8
 #EXTINF:-1 tvg-id="24Horas" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="TV" tvg-name="24h",24h
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="24H.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="TV" tvg-name="24h Int'l",24h Int'l
@@ -51,9 +51,9 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="ElConfidencial.TV" tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="TV" tvg-name="El Confidencial",El Confidencial
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="TV" tvg-name="Teledeporte",Teledeporte GEO
-https://ztnr.rtve.es/ztnr/1712295.m3u8
+https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="TV" tvg-name="Clan",Clan GEO
-https://ztnr.rtve.es/ztnr/5466990.m3u8
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 #EXTINF:-1 tvg-id="Paramount.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png?width=200&height=200" group-title="TV",Paramount Network 
 http://185.189.225.150:85/Paramount/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="TV" tvg-name="Canal Parlamento",Canal Parlamento
@@ -978,120 +978,120 @@ http://185.189.225.150:85/Hollywood/index.m3u8
 
 
 #EXTINF:-1 AXN group-title="GRUPO" 
-185.189.225.150:85/AXN/index.m3u8
+https://185.189.225.150:85/AXN/index.m3u8
 #EXTINF:-1 BBC1 HD group-title="GRUPO" 
-185.189.225.150:85/BBC1/index.m3u8
+https://185.189.225.150:85/BBC1/index.m3u8
 #EXTINF:-1 AMC HD group-title="GRUPO" 
-185.189.225.150:85/AMC/index.m3u8
+https://185.189.225.150:85/AMC/index.m3u8
 #EXTINF:-1 boing HD group-title="GRUPO" 
-185.189.225.150:85/boing/index.m3u8
+https://185.189.225.150:85/boing/index.m3u8
 #EXTINF:-1 TCM group-title="GRUPO" 
-185.189.225.150:85/TCM/index.m3u8
+https://185.189.225.150:85/TCM/index.m3u8
 #EXTINF:-1 somos group-title="GRUPO" 
-185.189.225.150:85/somos/index.m3u8
+https://185.189.225.150:85/somos/index.m3u8
 #EXTINF:-1 BabyTV group-title="GRUPO" 
-185.189.225.150:85/BabyTV/index.m3u8
+https://185.189.225.150:85/BabyTV/index.m3u8
 #EXTINF:-1 star group-title="GRUPO" 
-185.189.225.150:85/star/index.m3u8
+https://185.189.225.150:85/star/index.m3u8
 #EXTINF:-1 RTL group-title="GRUPO" 
-185.189.225.150:85/RTL/index.m3u8
+https://185.189.225.150:85/RTL/index.m3u8
 #EXTINF:-1 NationalGeographic group-title="GRUPO" 
-185.189.225.150:85/NationalGeographic/index.m3u8
+https://185.189.225.150:85/NationalGeographic/index.m3u8
 #EXTINF:-1 MTV group-title="GRUPO" 
-185.189.225.150:85/MTV/index.m3u8
+https://185.189.225.150:85/MTV/index.m3u8
 #EXTINF:-1 TV2 HD group-title="GRUPO" 
-185.189.225.150:85/TV2/index.m3u8
+https://185.189.225.150:85/TV2/index.m3u8
 #EXTINF:-1 cctv group-title="GRUPO" 
-185.189.225.150:85/cctv/index.m3u8
+https://185.189.225.150:85/cctv/index.m3u8
 #EXTINF:-1 calle13 group-title="GRUPO" 
-185.189.225.150:85/calle13/index.m3u8
+https://185.189.225.150:85/calle13/index.m3u8
 #EXTINF:-1 comedycentral group-title="GRUPO" 
-185.189.225.150:85/comedycentral/index.m3u8
+https://185.189.225.150:85/comedycentral/index.m3u8
 #EXTINF:-1 foodnetwork group-title="GRUPO" 
-185.189.225.150:85/foodnetwork/index.m3u8
+https://185.189.225.150:85/foodnetwork/index.m3u8
 #EXTINF:-1 nickelodeon group-title="GRUPO" 
-185.189.225.150:85/nickelodeon/index.m3u8
+https://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 mega group-title="GRUPO" 
-185.189.225.150:85/mega/index.m3u8
+https://185.189.225.150:85/mega/index.m3u8
 #EXTINF:-1 nova group-title="GRUPO" 
-185.189.225.150:85/nova/index.m3u8
+https://185.189.225.150:85/nova/index.m3u8
 #EXTINF:-1 odisea HD group-title="GRUPO" 
-185.189.225.150:85/odisea/index.m3u8
+https://185.189.225.150:85/odisea/index.m3u8
 #EXTINF:-1 syfy group-title="GRUPO" 
-185.189.225.150:85/syfy/index.m3u8
+https://185.189.225.150:85/syfy/index.m3u8
 #EXTINF:-1 tv3 HD group-title="GRUPO" 
-185.189.225.150:85/tv3/index.m3u8
+https://185.189.225.150:85/tv3/index.m3u8
 #EXTINF:-1 natgeowild group-title="GRUPO" 
-185.189.225.150:85/natgeowild/index.m3u8
+https://185.189.225.150:85/natgeowild/index.m3u8
 #EXTINF:-1 Paramount HD group-title="GRUPO" 
-185.189.225.150:85/Paramount/index.m3u8
+https://185.189.225.150:85/Paramount/index.m3u8
 #EXTINF:-1 MTVHits group-title="GRUPO" 
-185.189.225.150:85/MTVHits/index.m3u8
+https://185.189.225.150:85/MTVHits/index.m3u8
 #EXTINF:-1 Eurosport1 HD group-title="GRUPO" 
-185.189.225.150:85/Eurosport1/index.m3u8
+https://185.189.225.150:85/Eurosport1/index.m3u8
 #EXTINF:-1 12TV HD group-title="GRUPO" 
-185.189.225.150:85/12TV/index.m3u8
+https://185.189.225.150:85/12TV/index.m3u8
 
 # Todo XUMO
-#EXTINF:-1 tvg-id="AccuWeatherNOW.us",AccuWeather Now [Geo-blocked]
+#EXTINF:-1 tvg-id="AccuWeatherNOW.us",AccuWeather Now [Geo-blocked] group-title="XUMO"
 https://accuweather-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Alfred Hitchcock Presents
+#EXTINF:-1 tvg-id="",Alfred Hitchcock Presents group-title="XUMO"
 https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="",Alien Nation
+#EXTINF:-1 tvg-id="",Alien Nation group-title="XUMO"
 https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="AllWeddingsWEtv.us",All Weddings We TV
+#EXTINF:-1 tvg-id="AllWeddingsWEtv.us",All Weddings We TV group-title="XUMO"
 https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericasTestKitchen.us",America's Test Kitchen [Geo-blocked]
+#EXTINF:-1 tvg-id="AmericasTestKitchen.us",America's Test Kitchen [Geo-blocked] group-title="XUMO"
 https://amg01420-americastestkitchen-amg01420c1-xumo-us-878.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",American Crimes
+#EXTINF:-1 tvg-id="",American Crimes group-title="XUMO"
 https://xumo-xumoent-vc-113-at8kn.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="",American Ninja Warrior
+#EXTINF:-1 tvg-id="",American Ninja Warrior group-title="XUMO"
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us",Antiques Roadshow PBS
+#EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us",Antiques Roadshow PBS group-title="XUMO"
 https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AntiquesRoadshowUK.us",Antiques Roadshow UK
+#EXTINF:-1 tvg-id="AntiquesRoadshowUK.us",Antiques Roadshow UK group-title="XUMO"
 https://bbc-antiquesroadshowuk-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AtHomewithFamilyHandyman.us",At Home with Family Handyman
+#EXTINF:-1 tvg-id="AtHomewithFamilyHandyman.us",At Home with Family Handyman group-title="XUMO"
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Backstage.us",Backstage [Geo-blocked]
+#EXTINF:-1 tvg-id="Backstage.us",Backstage [Geo-blocked] group-title="XUMO"
 https://fuse-backstage-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Bad Girls Club
+#EXTINF:-1 tvg-id="",Bad Girls Club group-title="XUMO"
 https://xumo-xumoent-vc-118-jed5p.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="",Barney and Friends
+#EXTINF:-1 tvg-id="",Barney and Friends group-title="XUMO"
 https://cinedigm-barney-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Baywatch.us",Baywatch [Geo-blocked]
+#EXTINF:-1 tvg-id="Baywatch.us",Baywatch [Geo-blocked] group-title="XUMO"
 https://baywatch-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",BBC Earth
+#EXTINF:-1 tvg-id="",BBC Earth group-title="XUMO"
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-id="",BBC Impossible
+#EXTINF:-1 tvg-id="",BBC Impossible group-title="XUMO"
 https://bbc-impossible-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",BBC Top Gear
+#EXTINF:-1 tvg-id="",BBC Top Gear group-title="XUMO"
 https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us",BeIN Sports XTRA
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us",BeIN Sports XTRA group-title="XUMO"
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us",BeIN Sports XTRA en Espanol
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us",BeIN Sports XTRA en Espanol group-title="XUMO"
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Big 12 Studios
+#EXTINF:-1 tvg-id="",Big 12 Studios group-title="XUMO"
 https://amg01258-raycom-amg01258c7-xumo-us-5514.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BlackNewsChannel.us",Black News Channel (1080p)
+#EXTINF:-1 tvg-id="BlackNewsChannel.us",Black News Channel (1080p) group-title="XUMO"
 https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BlackNewsChannel.us",Black News Channel (1080p)
+#EXTINF:-1 tvg-id="BlackNewsChannel.us",Black News Channel (1080p) group-title="XUMO"
 https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BounceXL.us",Bounce XL
+#EXTINF:-1 tvg-id="BounceXL.us",Bounce XL group-title="XUMO"
 https://scripps-bouncexl-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Bravo Vault
+#EXTINF:-1 tvg-id="",Bravo Vault group-title="XUMO"
 https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="CanelaTV.us",Canela TV
+#EXTINF:-1 tvg-id="CanelaTV.us",Canela TV group-title="XUMO"
 https://amg00658-canelamediainc-canelatv-xumo-paqe5.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CBCNewsNetwork.ca",CBC News
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca",CBC News group-title="XUMO"
 https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="",Celebrity Name Game [Geo-blocked]
+#EXTINF:-1 tvg-id="",Celebrity Name Game [Geo-blocked] group-title="XUMO"
 https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8
-#EXTINF:-1 tvg-id="Circle.us",Circle (1080p)
+#EXTINF:-1 tvg-id="Circle.us",Circle (1080p) group-title="XUMO"
 https://circle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyDynamics.us",Comedy Dynamics
+#EXTINF:-1 tvg-id="ComedyDynamics.us",Comedy Dynamics group-title="XUMO"
 https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="",Cook's Country Channel [Geo-blocked]
+#EXTINF:-1 tvg-id="",Cook's Country Channel [Geo-blocked] group-title="XUMO"
 https://amg01420-amg01420c5-xumo-us-3817.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us",Court TV
 https://scripps-courttv-2-us.xumo.wurl.tv/playlist.m3u8
