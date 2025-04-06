@@ -977,13 +977,13 @@ http://185.189.225.150:85/Eurosport2/index.m3u8
 http://185.189.225.150:85/AXN/index.m3u8
 
 #EXTINF:-1 BBC1 HD group-title="GRUPO" 
-http://185.189.225.150:85/BBC1/index.m3u8
-#EXTINF:-1 AMC HD group-title="GRUPO" 
+http://185.189.225.150:85/BBC1/index.m3u8 tvg-name="BBC 1",BBC 1
+#EXTINF:-1 AMC HD group-title="GRUPO" tvg-name="AMC",AMC
 http://185.189.225.150:85/AMC/index.m3u8
 #EXTINF:-1 boing HD group-title="GRUPO" 
-http://185.189.225.150:85/boing/index.m3u8
-#EXTINF:-1 TCM group-title="GRUPO" 
-http://185.189.225.150:85/TCM/index.m3u8
+http://185.189.225.150:85/boing/index.m3u8 tvg-name="Boing",Boing
+#EXTINF:-1 TCM group-title="GRUPO" tvg-name="TCM",TCM
+http://185.189.225.150:85/TCM/index.m3u8 
 #EXTINF:-1 somos group-title="GRUPO" 
 http://185.189.225.150:85/somos/index.m3u8
 #EXTINF:-1 BabyTV group-title="GRUPO" 
