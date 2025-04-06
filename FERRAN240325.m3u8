@@ -141,69 +141,69 @@ https://cvtv.cvalley.net/hls/KMBCMeTV/live/pkgKMBCMeTVLo.m3u8
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 
 #Radios en general
-#EXTINF:-1 radio="true" tvg-id="RNE.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="RADIO" tvg-name="RADIO Nacional",Radio Nacional
+#EXTINF:-1 tvg-id="RNE.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="RADIO" tvg-name="RADIO Nacional",Radio Nacional
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r1_main.m3u8
-#EXTINF:-1 radio="true" tvg-id="RNE3.Radio" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="MÚSICA" tvg-name="RADIO 3 RNE",Radio 3 RNE
+#EXTINF:-1 tvg-id="RNE3.Radio" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="MÚSICA" tvg-name="RADIO 3 RNE",Radio 3 RNE
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8
-#EXTINF:-1 radio="true" tvg-id="RADIO4RNE.Radio" tvg-logo="https://graph.facebook.com/Radio4RNE/picture?width=200&height=200" group-title="RADIO" tvg-name="Ràdio 4 RNE",Ràdio 4 RNE
+#EXTINF:-1 tvg-id="RADIO4RNE.Radio" tvg-logo="https://graph.facebook.com/Radio4RNE/picture?width=200&height=200" group-title="RADIO" tvg-name="Ràdio 4 RNE",Ràdio 4 RNE
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r4_main.m3u8
-#EXTINF:-1 radio="true" tvg-id="RNE5.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg" group-title="RADIO" tvg-name="RADIO 5 RNE",Radio 5 RNE
+#EXTINF:-1 tvg-id="RNE5.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg" group-title="RADIO" tvg-name="RADIO 5 RNE",Radio 5 RNE
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r5_madrid_main.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioExterior/picture?width=200&height=200" group-title="RADIO" tvg-name="RADIO Exterior",Radio Exterior
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioExterior/picture?width=200&height=200" group-title="RADIO" tvg-name="RADIO Exterior",Radio Exterior
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_re_main.m3u8
-#EXTINF:-1 radio="true" tvg-id="RNEClasica.Radio" tvg-logo="https://graph.facebook.com/radioclasicartve/picture?width=200&height=200" group-title="MÚSICA" tvg-name="RADIO Clásica RNE",Radio Clásica RNE
+#EXTINF:-1 tvg-id="RNEClasica.Radio" tvg-logo="https://graph.facebook.com/radioclasicartve/picture?width=200&height=200" group-title="MÚSICA" tvg-name="RADIO Clásica RNE",Radio Clásica RNE
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r2_main.m3u8
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="RADIO" tvg-name="SER",SER
+#EXTINF:-1 tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="RADIO" tvg-name="SER",SER
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://i.ytimg.com/vi/ig1MWogR11U/maxresdefault.jpg?width=200&height=200" group-title="RADIO" tvg-name="SER+",SER+
+#EXTINF:-1 tvg-id="CadenaS.Radio" tvg-logo="https://i.ytimg.com/vi/ig1MWogR11U/maxresdefault.jpg?width=200&height=200" group-title="RADIO" tvg-name="SER+",SER+
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1.mp3
-#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="RADIO" tvg-name="COPE",COPE
+#EXTINF:-1 tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="RADIO" tvg-name="COPE",COPE
 https://flucast09-h-cloud.flumotion.com/cope/net1.mp3
-#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://s03.s3c.es/imag/_v0/770x420/e/5/7/cope-logo-cadena.jpg?width=200&height=200" group-title="RADIO" tvg-name="COPE MÁS",COPE MÁS
+#EXTINF:-1 tvg-id="COPE.Radio" tvg-logo="https://s03.s3c.es/imag/_v0/770x420/e/5/7/cope-logo-cadena.jpg?width=200&height=200" group-title="RADIO" tvg-name="COPE MÁS",COPE MÁS
 https://flucast09-h-cloud.flumotion.com/cope/net1.mp3
-#EXTINF:-1 radio="true" tvg-id="OndaCero.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RADIO" tvg-name="Onda Cero",Onda Cero
+#EXTINF:-1 tvg-id="OndaCero.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RADIO" tvg-name="Onda Cero",Onda Cero
 https://atres-live.ondacero.es/live/ondacero/master.m3u8
-#EXTINF:-1 radio="true" tvg-id="OndaCero.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RADIO" tvg-name="Onda Cero Más",Onda Cero Más
+#EXTINF:-1 tvg-id="OndaCero.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RADIO" tvg-name="Onda Cero Más",Onda Cero Más
 https://atres-live.ondacero.es/live/ondaceroeventos1/master.m3u8
-#EXTINF:-1 radio="true" tvg-id="esRadio.Radio" tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" group-title="RADIO" tvg-name="esRadio",esRadio
+#EXTINF:-1 tvg-id="esRadio.Radio" tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" group-title="RADIO" tvg-name="esRadio",esRadio
 https://libertaddigital-libremercado-live.flumotion.com/libertaddigital/libremercado-high.aac
-#EXTINF:-1 radio="true" tvg-id="InformaRadio.Radio" tvg-logo="http://guiadelaradio.com/wp-content/uploads/2022/10/Informa_Radio_72500-678x381.jpg?width=200&height=200" group-title="RADIO" tvg-name=“Informa Radio",Informa Radio
+#EXTINF:-1 tvg-id="InformaRadio.Radio" tvg-logo="http://guiadelaradio.com/wp-content/uploads/2022/10/Informa_Radio_72500-678x381.jpg?width=200&height=200" group-title="RADIO" tvg-name=“Informa Radio",Informa Radio
 https://24x7.red:42045/informa
-#EXTINF:-1 radio="true" tvg-id="RAC1.Radio" tvg-logo="https://graph.facebook.com/rac1oficial/picture?width=200&height=200" group-title="RADIO" tvg-name="RAC1",RAC1
+#EXTINF:-1 tvg-id="RAC1.Radio" tvg-logo="https://graph.facebook.com/rac1oficial/picture?width=200&height=200" group-title="RADIO" tvg-name="RAC1",RAC1
 https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
-#EXTINF:-1 radio="true" tvg-id="CATRadio.Radio" tvg-logo="https://graph.facebook.com/catradio/picture?width=200&height=200" group-title="RADIO" tvg-name="Catalunya Ràdio",Catalunya Ràdio
+#EXTINF:-1 tvg-id="CATRadio.Radio" tvg-logo="https://graph.facebook.com/catradio/picture?width=200&height=200" group-title="RADIO" tvg-name="Catalunya Ràdio",Catalunya Ràdio
 https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8
-#EXTINF:-1 radio="true" tvg-id="CATInformacio.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1172550299585847302/cqJkGqw7_200x200.png" group-title="RADIO" tvg-name="Catalunya Informació",Catalunya Informació
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="RADIO" tvg-name="À Punt FM",À Punt FM
-#EXTINF:-1 radio="true" tvg-logo="https://media.emisorasmusicales.net/wp-content/uploads/2024/04/23134127/LOGO-DEF.-COMBOI-1000x1000px-RGB.png?width=200&height=200" group-title="RADIO" tvg-name="Comboi",Comboi
+#EXTINF:-1 tvg-id="CATInformacio.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1172550299585847302/cqJkGqw7_200x200.png" group-title="RADIO" tvg-name="Catalunya Informació",Catalunya Informació
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="RADIO" tvg-name="À Punt FM",À Punt FM
+#EXTINF:-1 tvg-logo="https://media.emisorasmusicales.net/wp-content/uploads/2024/04/23134127/LOGO-DEF.-COMBOI-1000x1000px-RGB.png?width=200&height=200" group-title="RADIO" tvg-name="Comboi",Comboi
 https://stream.emisorasmusicales.net/listen/comboi/comboi.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioeuskadi.RE/picture?width=200&height=200" group-title="RADIO" tvg-name="RADIO Euskadi",Radio Euskadi
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioeuskadi.RE/picture?width=200&height=200" group-title="RADIO" tvg-name="RADIO Euskadi",Radio Euskadi
 https://multimedia.eitb.eus/live-content/radioeuskadi-hls/master.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radiovitoria.eitb/picture?width=200&height=200" group-title="RADIO" tvg-name="RADIO Vitoria",Radio Vitoria
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiovitoria.eitb/picture?width=200&height=200" group-title="RADIO" tvg-name="RADIO Vitoria",Radio Vitoria
 https://multimedia.eitb.eus/live-content/radiovitoria-hls/master.m3u8
-#EXTINF:-1 radio="true" tvg-id="CanalSur.Radio" tvg-logo="https://graph.facebook.com/CanalSurRadioAndalucia/picture?width=200&height=200" group-title="RADIO" tvg-name="Canal Sur Radio",Canal Sur Radio
+#EXTINF:-1 tvg-id="CanalSur.Radio" tvg-logo="https://graph.facebook.com/CanalSurRadioAndalucia/picture?width=200&height=200" group-title="RADIO" tvg-name="Canal Sur Radio",Canal Sur Radio
 https://rtva-live-radio.flumotion.com/rtva/csr.mp3
-#EXTINF:-1 radio="true" tvg-id="RADIOGalega.Radio" tvg-logo="https://graph.facebook.com/aradiogalega/picture?width=200&height=200" group-title="RADIO" tvg-name="RADIO Galega",Radio Galega
+#EXTINF:-1 tvg-id="RADIOGalega.Radio" tvg-logo="https://graph.facebook.com/aradiogalega/picture?width=200&height=200" group-title="RADIO" tvg-name="RADIO Galega",Radio Galega
 https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RTPAoficial/picture?width=200&height=200" group-title="RADIO" tvg-name="RPA",RPA
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTPAoficial/picture?width=200&height=200" group-title="RADIO" tvg-name="RPA",RPA
 https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/radio/index.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="RADIO" tvg-name="Canal Extremadura Radio",Canal Extremadura Radio
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="RADIO" tvg-name="Canal Extremadura Radio",Canal Extremadura Radio
 https://ingest2-video.streaming-pro.com/icecast/canalextremadura/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="RADIO" tvg-name="RNA Andorra",RNA Andorra
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="RADIO" tvg-name="RNA Andorra",RNA Andorra
 https://live-edge-eu-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C023/rna/index.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rfienespanol/picture?width=200&height=200" group-title="RADIO" tvg-name="RADIO Francia Internacional",Radio Francia Internacional
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rfienespanol/picture?width=200&height=200" group-title="RADIO" tvg-name="RADIO Francia Internacional",Radio Francia Internacional
 https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioenlacemadrid/picture?width=200&height=200" group-title="RADIO" tvg-name="RADIO Enlace",Radio Enlace
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioenlacemadrid/picture?width=200&height=200" group-title="RADIO" tvg-name="RADIO Enlace",Radio Enlace
 https://cervera.eldialdigital.com:25121/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/inforadiocomplutense/picture?width=200&height=200" group-title="RADIO" tvg-name="Inforadio UCM",Inforadio UCM
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/inforadiocomplutense/picture?width=200&height=200" group-title="RADIO" tvg-name="Inforadio UCM",Inforadio UCM
 https://stream.zeno.fm/syfk1h3e0fnuv
-#EXTINF:-1 radio="true" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/03/nbc-news-logo.jpg?width=200&height=200" group-title="RADIO" tvg-name=“NBC News Radio”,NBC News Radio
+#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/03/nbc-news-logo.jpg?width=200&height=200" group-title="RADIO" tvg-name=“NBC News Radio”,NBC News Radio
 https://stream.revma.ihrhls.com/zc6043
-#EXTINF:-1 radio="true" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/MSNBC-Logo.png?width=200&height=200" group-title="RADIO" tvg-name=“MSNBC”,MSNBC
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/MSNBC-Logo.png?width=200&height=200" group-title="RADIO" tvg-name=“MSNBC”,MSNBC
 https://19313.live.streamtheworld.com/NBC_MSNBCAAC/HLS/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s15289/images/logog.png?width=200&height=200" group-title="RADIO" tvg-name=“AFN ROTA”,AFN ROTA
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s15289/images/logog.png?width=200&height=200" group-title="RADIO" tvg-name=“AFN ROTA”,AFN ROTA
 http://27823.live.streamtheworld.com:3690/AFNE_RTA_SC
-#EXTINF:-1 radio="true" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Los_40.svg?width=200&height=200" group-title="RADIO" tvg-name=“LOS 40 USA”,LOS 40 USA
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Archivo:Los_40.svg?width=200&height=200" group-title="RADIO" tvg-name=“LOS 40 USA”,LOS 40 USA
 https://streams.streamkast.co/streamkast/los40/icecast.audio
 
 #TV PASS
@@ -972,13 +972,10 @@ https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="HOLLYWOOD.TV" tvg-logo="https://amcnetworks.es/wp-content/uploads/2018/08/HOLLYWOOD.jpg?width=200&height=200" group-title="CINE" tvg-name="Hollywood",Hollywood
 http://185.189.225.150:85/Hollywood/index.m3u8
 #EXTINF:-1 tvg-id="EUROSPORT2.TV" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~196acf0142c66a68.png?width=200&height=200" group-title="GRUPO" tvg-name="Eurosport 2",Eurosport 2
-185.189.225.150:85/Eurosport2/index.m3u8
-#EXTINF:-1 tvg-id="AXN.TV" tvg-logo="https://pluspng.com/img-png/axn-logo-png-passion-in-the-axn-rebrand-665.jpg?width=200&height=200" group-title="CINE" tvg-name="AXN",AXN
-185.189.225.150:85/AXN/index.m3u8
+https://185.189.225.150:85/Eurosport2/index.m3u8
+#EXTINF:-1 tvg-id="AXN.TV" tvg-logo="https://pluspng.com/img-png/axn-logo-png-passion-in-the-axn-rebrand-665.jpg?width=200&height=200" group-title="GRUPO" tvg-name="AXN",AXN
+http://185.189.225.150:85/AXN/index.m3u8
 
-
-#EXTINF:-1 AXN group-title="GRUPO" 
-https://185.189.225.150:85/AXN/index.m3u8
 #EXTINF:-1 BBC1 HD group-title="GRUPO" 
 https://185.189.225.150:85/BBC1/index.m3u8
 #EXTINF:-1 AMC HD group-title="GRUPO" 
@@ -1093,292 +1090,294 @@ https://circle-xumo.amagi.tv/playlist.m3u8
 https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="",Cook's Country Channel [Geo-blocked] group-title="XUMO"
 https://amg01420-amg01420c5-xumo-us-3817.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CourtTV.us",Court TV
+#EXTINF:-1 tvg-id="CourtTV.us",Court TV group-title="XUMO"
 https://scripps-courttv-2-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Court TV Legendary Trials
+#EXTINF:-1 tvg-id="",Court TV Legendary Trials group-title="XUMO"
 https://scripps-ctvlegendary-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",CraftsyTV
+#EXTINF:-1 tvg-id="",CraftsyTV group-title="XUMO"
 https://linear-492.frequency.stream/dist/xumo/492/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="DangerTV.us",DangerTV
+#EXTINF:-1 tvg-id="DangerTV.us",DangerTV group-title="XUMO"
 https://dangertv-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DemandAfrica.us",Demand Africa
+#EXTINF:-1 tvg-id="DemandAfrica.us",Demand Africa group-title="XUMO"
 https://demandafrica-xumo-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Designated Survivor [Geo-blocked]
+#EXTINF:-1 tvg-id="",Designated Survivor [Geo-blocked] group-title="XUMO"
 https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DoctorWhoClassic.us",Doctor Who Classic
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us",Doctor Who Classic group-title="XUMO"
 https://bbc-classicdrwho-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DogWhisperer.uk",Dog Whisperer with Cesar Millan [Geo-blocked]
+#EXTINF:-1 tvg-id="DogWhisperer.uk",Dog Whisperer with Cesar Millan [Geo-blocked] group-title="XUMO"
 https://amg01201-cinedigm-amg01201c30-xumo-us-2277.playouts.now.amagi.tv/cinedigm-dogwhisperer-hls/playlist.m3u8
-#EXTINF:-1 tvg-id="DoveChannel.us",Dove Channel
+#EXTINF:-1 tvg-id="DoveChannel.us",Dove Channel group-title="XUMO"
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="",E! Keeping Up
+#EXTINF:-1 tvg-id="",E! Keeping Up group-title="XUMO"
 https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="",Ebony TV [Geo-blocked]
+#EXTINF:-1 tvg-id="",Ebony TV [Geo-blocked] group-title="XUMO"
 https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv/EbonyTV-pl/playlist.m3u8
-#EXTINF:-1 tvg-id="ElectricNow.us",Electric Now (1080p)
+#EXTINF:-1 tvg-id="ElectricNow.us",Electric Now (1080p) group-title="XUMO"
 https://elec-en-xumo.otteravision.com/elec/en/elec_en.m3u8
-#EXTINF:-1 tvg-id="EstrellaNews.us",Estrella News
+#EXTINF:-1 tvg-id="EstrellaNews.us",Estrella News group-title="XUMO"
 https://estrellanews-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaTV.us",Estrella TV
+#EXTINF:-1 tvg-id="EstrellaTV.us",Estrella TV group-title="XUMO"
 https://estrellatv-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Family Feud Classic
+#EXTINF:-1 tvg-id="",Family Feud Classic group-title="XUMO"
 https://amg00145-amg00145c3-xumo-us-3802.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmex.mx",Filmex (Xumo) (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Filmex.mx",Filmex (Xumo) (1080p) [Geo-blocked] group-title="XUMO"
 https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmexClasico.mx",Filmex Clásico (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="FilmexClasico.mx",Filmex Clásico (1080p) [Geo-blocked] group-title="XUMO"
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Fork & Flight
+#EXTINF:-1 tvg-id="",Fork & Flight group-title="XUMO"
 https://amg00346-vizioono-forkandfligt-xumo-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us",FOX Live Now [Geo-blocked]
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us",FOX Live Now [Geo-blocked] group-title="XUMO"
 https://amg00488-foxdigital-newsnow-xumo-qbvgp.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports.us",FOX Sports [Geo-blocked]
+#EXTINF:-1 tvg-id="FoxSports.us",FOX Sports [Geo-blocked] group-title="XUMO"
 https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxWeather.us",FOX Weather
+#EXTINF:-1 tvg-id="FoxWeather.us",FOX Weather group-title="XUMO"
 https://amg01542-foxweatherllc-foxweather-xumo-ve91o.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxWeather.us",Fox Weather
+#EXTINF:-1 tvg-id="FoxWeather.us",Fox Weather group-title="XUMO"
 https://foxweather-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Gardening with Monty Don
+#EXTINF:-1 tvg-id="",Gardening with Monty Don group-title="XUMO"
 https://all3media-gardening-with-monty-don-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GritXtra.us",Grit Xtra
+#EXTINF:-1 tvg-id="GritXtra.us",Grit Xtra group-title="XUMO"
 https://scripps-gritxtra-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GustoTV.ca",GustoTV
+#EXTINF:-1 tvg-id="GustoTV.ca",GustoTV group-title="XUMO"
 https://gusto-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Hallmark en Espanol [Geo-blocked]
+#EXTINF:-1 tvg-id="",Hallmark en Espanol [Geo-blocked] group-title="XUMO"
 https://amg00235-amg00235c3-xumo-us-3820.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HiYAH.us",Hi-Yah!
+#EXTINF:-1 tvg-id="HiYAH.us",Hi-Yah! group-title="XUMO"
 https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="",Homeful
+#EXTINF:-1 tvg-id="",Homeful group-title="XUMO"
 https://amg00090-blueantllc-homefull-xumo-rn9cd.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Hungry.us",Hungry
+#EXTINF:-1 tvg-id="Hungry.us",Hungry group-title="XUMO"
 https://food-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="IHeart90s.us",iHeartRadio 90s
+#EXTINF:-1 tvg-id="IHeart90s.us",iHeartRadio 90s group-title="XUMO"
 https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",iHeartRadio Alternative
+#EXTINF:-1 tvg-id="",iHeartRadio Alternative group-title="XUMO"
 https://iheart-iheartaltradio-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",iHeartRadio Beso
+#EXTINF:-1 tvg-id="",iHeartRadio Beso group-title="XUMO"
 https://iheart-iheartlatinohits-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",iHeartRadio Country
+#EXTINF:-1 tvg-id="",iHeartRadio Country group-title="XUMO"
 https://iheart-iheartcountry-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",iHeartRadio Hip-Hop
+#EXTINF:-1 tvg-id="",iHeartRadio Hip-Hop group-title="XUMO"
 https://iheart-iheartthebeat-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Investigation
+#EXTINF:-1 tvg-id="",Investigation group-title="XUMO"
 https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="IONTVEast.us",ION
+#EXTINF:-1 tvg-id="IONTVEast.us",ION group-title="XUMO"
 https://scripps-ion-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WFXTDT2.us",ION Mystery (1080p)
+#EXTINF:-1 tvg-id="WFXTDT2.us",ION Mystery (1080p) group-title="XUMO"
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="IONPlusEast.us",ION Plus
+#EXTINF:-1 tvg-id="IONPlusEast.us",ION Plus group-title="XUMO"
 https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="JewishLifeTelevision.us",Jewish Life Television
+#EXTINF:-1 tvg-id="JewishLifeTelevision.us",Jewish Life Television group-title="XUMO"
 https://jlt-jltv-xumo.otteravision.com/jlt/jltv/jltv.m3u8
-#EXTINF:-1 tvg-id="",Joel Osteen Network
+#EXTINF:-1 tvg-id="",Joel Osteen Network group-title="XUMO"
 https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="",JTV Jewelry Love [Geo-blocked]
+#EXTINF:-1 tvg-id="",JTV Jewelry Love [Geo-blocked] group-title="XUMO"
 https://jewelrytv-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Laff More
+#EXTINF:-1 tvg-id="",Laff More group-title="XUMO"
 https://scripps-laffmore-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Lassie
+#EXTINF:-1 tvg-id="",Lassie group-title="XUMO"
 https://xumo-xumoent-ch833-p47sj.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="",Latino Vibes [Geo-blocked]
+#EXTINF:-1 tvg-id="",Latino Vibes [Geo-blocked] group-title="XUMO"
 https://amg00375-fusemedia-latinovibes-xumo-qyjhw.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Leave It to Beaver
+#EXTINF:-1 tvg-id="",Leave It to Beaver group-title="XUMO"
 https://xumo-xumoent-ch826-z0h0h.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="",Little House on the Prairie
+#EXTINF:-1 tvg-id="",Little House on the Prairie group-title="XUMO"
 https://xumo-xumoent-vc-121-ghge7.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="LoveNature.ca",Love Nature [Geo-blocked]
+#EXTINF:-1 tvg-id="LoveNature.ca",Love Nature [Geo-blocked] group-title="XUMO"
 https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNatureenEspanol.us",Love Nature en Espanol [Geo-blocked]
+#EXTINF:-1 tvg-id="LoveNatureenEspanol.us",Love Nature en Espanol [Geo-blocked] group-title="XUMO"
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
-#EXTINF:-1 tvg-id="",Love The Planet [Geo-blocked]
+#EXTINF:-1 tvg-id="",Love The Planet [Geo-blocked] group-title="XUMO"
 https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MidsomerMurders.us",Midsomer Murders
+#EXTINF:-1 tvg-id="MidsomerMurders.us",Midsomer Murders group-title="XUMO"
 https://all3media-midsomer-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Million Dollar Listing Vault
+#EXTINF:-1 tvg-id="",Million Dollar Listing Vault group-title="XUMO"
 https://xumo-xumoent-ch838-coy7x.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="Motorvision.de",Motorvision
+#EXTINF:-1 tvg-id="Motorvision.de",Motorvision group-title="XUMO"
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
-#EXTINF:-1 tvg-id="MovieSphere.us",MovieSphere
+#EXTINF:-1 tvg-id="MovieSphere.us",MovieSphere group-title="XUMO"
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Murder She Wrote
+#EXTINF:-1 tvg-id="",Murder She Wrote group-title="XUMO"
 https://xumo-xumoent-vc-119-t7wx7.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="MST3K.us",Mystery Science Theater 3000 [Geo-blocked]
+#EXTINF:-1 tvg-id="MST3K.us",Mystery Science Theater 3000 [Geo-blocked] group-title="XUMO"
 https://amg00163-shoutfactory-mst3k-xumo-r2pwd.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Nash Bridges Channel [Geo-blocked]
+#EXTINF:-1 tvg-id="",Nash Bridges Channel [Geo-blocked] group-title="XUMO"
 https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KNBCDT1.us",NBC 4 Los Angeles CA (KNBC) [Geo-blocked]
+#EXTINF:-1 tvg-id="KNBCDT1.us",NBC 4 Los Angeles CA (KNBC) [Geo-blocked] group-title="XUMO"
 https://amg00884-nbcuniversal-nbcla-pcr-xumo-ksnf2.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WNBCDT1.us",NBC 4 New York NY (WNBC) [Geo-blocked]
+#EXTINF:-1 tvg-id="WNBCDT1.us",NBC 4 New York NY (WNBC) [Geo-blocked] group-title="XUMO"
 https://amg00884-nbcuniversal-nbcny-pcr-xumo-isw50.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WRCDT1.us",NBC 4 Washington DC (WRC) [Geo-blocked]
+#EXTINF:-1 tvg-id="WRCDT1.us",NBC 4 Washington DC (WRC) [Geo-blocked] group-title="XUMO"
 https://amg00884-nbcuniversal-wanews-xumo-oamde.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WMAQDT1.us",NBC 5 Chicago IL (WMAQ) [Geo-blocked]
+#EXTINF:-1 tvg-id="WMAQDT1.us",NBC 5 Chicago IL (WMAQ) [Geo-blocked] group-title="XUMO"
 https://amg00884-nbcuniversal-nbcch-pcr-xumo-e9lcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KXASDT1.us",NBC 5 Dallas-Fort Worth TX (KXAS) [Geo-blocked]
+#EXTINF:-1 tvg-id="KXASDT1.us",NBC 5 Dallas-Fort Worth TX (KXAS) [Geo-blocked] group-title="XUMO"
 https://amg00884-nbcuniversal-dfwnews-xumo-r5in7.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WTVJDT1.us",NBC 6 Miami FL (WTVJ) [Geo-blocked]
+#EXTINF:-1 tvg-id="WTVJDT1.us",NBC 6 Miami FL (WTVJ) [Geo-blocked] group-title="XUMO"
 https://amg00884-nbcuniversal-nbcnsf-pcr-xumo-78jf2.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KNSDDT1.us",NBC 7 San Diego CA (KNSD) [Geo-blocked]
+#EXTINF:-1 tvg-id="KNSDDT1.us",NBC 7 San Diego CA (KNSD) [Geo-blocked] group-title="XUMO"
 https://amg00884-nbcuniversal-nbcsd-pcr-xumo-o4a18.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WBTSCD1.us",NBC 10 Boston NH (WBTS) [Geo-blocked]
+#EXTINF:-1 tvg-id="WBTSCD1.us",NBC 10 Boston NH (WBTS) [Geo-blocked] group-title="XUMO"
 https://amg00884-nbcuniversal-nbcbos-pcr-xumo-9xxph.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WCAUDT1.us",NBC 10 Philadelphia PA (WCAU) [Geo-blocked]
+#EXTINF:-1 tvg-id="WCAUDT1.us",NBC 10 Philadelphia PA (WCAU) [Geo-blocked] group-title="XUMO"
 https://amg00884-nbcuniversal-nbcpa-pcr-xumo-q61uw.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KNTVDT1.us",NBC 11 San Jose CA (KNTV) [Geo-blocked]
+#EXTINF:-1 tvg-id="KNTVDT1.us",NBC 11 San Jose CA (KNTV) [Geo-blocked] group-title="XUMO"
 https://amg00884-nbcuniversal-nbcsf-pcr-xumo-xetsp.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WVITDT1.us",NBC 30 West Hartford CT (WVIT) [Geo-blocked]
+#EXTINF:-1 tvg-id="WVITDT1.us",NBC 30 West Hartford CT (WVIT) [Geo-blocked] group-title="XUMO"
 https://amg00884-nbcuniversal-ctnews-xumo-cdfzg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",NBC Comedy Vault
+#EXTINF:-1 tvg-id="",NBC Comedy Vault group-title="XUMO"
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNOW.us",NBC News Now
+#EXTINF:-1 tvg-id="NBCNewsNOW.us",NBC News Now group-title="XUMO"
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="",NBC Sports
+#EXTINF:-1 tvg-id="",NBC Sports group-title="XUMO"
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="NinjaKidzTV.us",Ninja Kidz TV
+#EXTINF:-1 tvg-id="NinjaKidzTV.us",Ninja Kidz TV group-title="XUMO"
 https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Nosey Confess
+#EXTINF:-1 tvg-id="",Nosey Confess group-title="XUMO"
 https://nosey-confessbynosey-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="OutdoorAmerica.us",Outdoor America
+#EXTINF:-1 tvg-id="OutdoorAmerica.us",Outdoor America group-title="XUMO"
 https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="",OuterSphere [Geo-blocked]
+#EXTINF:-1 tvg-id="",OuterSphere [Geo-blocked] group-title="XUMO"
 https://amg00353-amg00353c17-xumo-us-2554.playouts.now.amagi.tv/lionsgate-otspr-xumo/playlist.m3u8
-#EXTINF:-1 tvg-id="OutsideTVPlus.us",Outside TV Plus (1080p)
+#EXTINF:-1 tvg-id="OutsideTVPlus.us",Outside TV Plus (1080p) group-title="XUMO"
 https://outsidetvplus-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSNature.us",PBS Nature [Geo-blocked]
+#EXTINF:-1 tvg-id="PBSNature.us",PBS Nature [Geo-blocked] group-title="XUMO"
 https://amg01597-wnetnewyorkpubl-pbsnature-xumo-8xorq.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="pocketwatch.us",pocket.watch
+#EXTINF:-1 tvg-id="pocketwatch.us",pocket.watch group-title="XUMO"
 https://pocketwatch-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PokerGo.us",PokerGO
+#EXTINF:-1 tvg-id="PokerGo.us",PokerGO group-title="XUMO"
 https://linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Portlandia.us",Portlandia
+#EXTINF:-1 tvg-id="Portlandia.us",Portlandia group-title="XUMO"
 https://amc-portlandia-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Property & Reno [Geo-blocked]
+#EXTINF:-1 tvg-id="",Property & Reno [Geo-blocked] group-title="XUMO"
 https://linear-476.frequency.stream/dist/xumo/476/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="PursuitUP.us",PursuitUp
+#EXTINF:-1 tvg-id="PursuitUP.us",PursuitUp group-title="XUMO"
 https://linear-205.frequency.stream/dist/xumo/205/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="",QVC's The Big Dish [Geo-blocked]
+#EXTINF:-1 tvg-id="",QVC's The Big Dish [Geo-blocked] group-title="XUMO"
 https://amg01717-qvc-amg01717c3-xumo-us-2876.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Real Disaster Channel [Geo-blocked]
+#EXTINF:-1 tvg-id="",Real Disaster Channel [Geo-blocked] group-title="XUMO"
 https://linear-475.frequency.stream/dist/xumo/475/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="",Real Housewives Vault
+#EXTINF:-1 tvg-id="",Real Housewives Vault group-title="XUMO"
 https://xumo-xumoent-vc-123-8gq0q.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="",Reelz Famous & Infamous
+#EXTINF:-1 tvg-id="",Reelz Famous & Infamous group-title="XUMO"
 https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="ReutersTV.us",Reuters Now
+#EXTINF:-1 tvg-id="ReutersTV.us",Reuters Now group-title="XUMO"
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Revolt.us",Revolt Mixtape
+#EXTINF:-1 tvg-id="Revolt.us",Revolt Mixtape group-title="XUMO"
 https://revolttv-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Rig TV
+#EXTINF:-1 tvg-id="",Rig TV group-title="XUMO"
 https://buzzr-rigtv-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Salem News Channel [Geo-blocked]
+#EXTINF:-1 tvg-id="",Salem News Channel [Geo-blocked] group-title="XUMO"
 https://amg00732-salemnewsfast-amg00732c2-xumo-us-1316.playouts.now.amagi.tv/snc-xm/playlist.m3u8
-#EXTINF:-1 tvg-id="",Saved by the Bell
+#EXTINF:-1 tvg-id="",Saved by the Bell group-title="XUMO"
 https://xumo-xumoent-vc-111-0pd1g.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="",Scares by Shudder
+#EXTINF:-1 tvg-id="",Scares by Shudder group-title="XUMO"
 https://amc-scaresbyshudder-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ScrippsNews.us",Scripps News
+#EXTINF:-1 tvg-id="ScrippsNews.us",Scripps News group-title="XUMO"
 https://scripps-newsy-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Shades of Black [Geo-blocked]
+#EXTINF:-1 tvg-id="",Shades of Black [Geo-blocked] group-title="XUMO"
 https://xumo-fusebeats.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Shaun the Sheep & Friends
+#EXTINF:-1 tvg-id="",Shaun the Sheep & Friends group-title="XUMO"
 https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
-#EXTINF:-1 tvg-id="ShopLC.us",Shop LC (1080p)
+#EXTINF:-1 tvg-id="ShopLC.us",Shop LC (1080p) group-title="XUMO" group-title="XUMO"
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
-#EXTINF:-1 tvg-id="ShoutFactoryTV.us",Shout! Factory TV (1080p)
+#EXTINF:-1 tvg-id="ShoutFactoryTV.us",Shout! Factory TV (1080p) group-title="XUMO"
 https://shoutfactory-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",SNL Vault
+#EXTINF:-1 tvg-id="",SNL Vault group-title="XUMO"
 https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="SonyCanalCompetencias.us",Sony Canal Competencias
+#EXTINF:-1 tvg-id="SonyCanalCompetencias.us",Sony Canal Competencias group-title="XUMO"
 https://spt-competencias-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyKALHindi.us",Sony KAL Hindi
+#EXTINF:-1 tvg-id="SonyKALHindi.us",Sony KAL Hindi group-title="XUMO"
 https://spt-sonykal-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="StoriesbyAMC.us",Stories by AMC
+#EXTINF:-1 tvg-id="StoriesbyAMC.us",Stories by AMC group-title="XUMO"
 https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Strongman Champions League
+#EXTINF:-1 tvg-id="",Strongman Champions League group-title="XUMO"
 https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Supermarket Sweep [Geo-blocked]
+#EXTINF:-1 tvg-id="",Supermarket Sweep [Geo-blocked] group-title="XUMO"
 https://amg00145-letsplayinc-supermarketswep-xumo-59bvy.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SwerveSports.us",Swerve Combat
+#EXTINF:-1 tvg-id="SwerveSports.us",Swerve Combat group-title="XUMO"
 https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Tastemade.us",Tastemade (1080p)
+#EXTINF:-1 tvg-id="Tastemade.us",Tastemade (1080p) group-title="XUMO"
 https://tastemade-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TastemadeenEspanol.us",Tastemade en Espanol [Geo-blocked]
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us",Tastemade en Espanol [Geo-blocked] group-title="XUMO"
 https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TastemadeTravel.us",Tastemade Travel [Geo-blocked]
+#EXTINF:-1 tvg-id="TastemadeTravel.us",Tastemade Travel [Geo-blocked] group-title="XUMO"
 https://tm-tmtar-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Telemundo Accion
+#EXTINF:-1 tvg-id="",Telemundo Accion group-title="XUMO"
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="",Telemundo Noticias Ahora
+#EXTINF:-1 tvg-id="",Telemundo Noticias Ahora group-title="XUMO"
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="",Telemundo Noticias California
+#EXTINF:-1 tvg-id="",Telemundo Noticias California group-title="XUMO"
 https://amg00884-nbcuniversal-nbctelemundowest-xumo-xc0n5.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Telemundo Noticias Florida
+#EXTINF:-1 tvg-id="",Telemundo Noticias Florida group-title="XUMO"
 https://amg00884-nbcuniversal-nbctelemundoflorida-xumo-atn0m.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Telemundo Noticias Noreste
+#EXTINF:-1 tvg-id="",Telemundo Noticias Noreste group-title="XUMO"
 https://amg00884-nbcuniversal-nbctelemundonortheast-xumo-ok3ha.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Telemundo Noticias Texas
+#EXTINF:-1 tvg-id="",Telemundo Noticias Texas group-title="XUMO"
 https://amg00884-nbcuniversal-nbctelemundotexas-xumo-eeb56.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Telemundo Romance
+#EXTINF:-1 tvg-id="",Telemundo Romance group-title="XUMO"
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="TheBobRossChannel.us",The Bob Ross Channel (1080p)
+#EXTINF:-1 tvg-id="TheBobRossChannel.us",The Bob Ross Channel (1080p) group-title="XUMO"
 https://bobross-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bobross-xumo/CDN/master.m3u8
-#EXTINF:-1 tvg-id="",The Conners [Geo-blocked]
+#EXTINF:-1 tvg-id="",The Conners [Geo-blocked] group-title="XUMO"
 https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TheDesignNetwork.us",The Design Network [Geo-blocked]
+#EXTINF:-1 tvg-id="TheDesignNetwork.us",The Design Network [Geo-blocked] group-title="XUMO"
 https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TheJamieOliverChannel.us",The Jamie Oliver Channel
+#EXTINF:-1 tvg-id="TheJamieOliverChannel.us",The Jamie Oliver Channel group-title="XUMO"
 https://jamieoliver-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",The Lone Ranger
+#EXTINF:-1 tvg-id="",The Lone Ranger group-title="XUMO"
 https://xumo-xumoent-ch829-wojlf.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="ThePriceIsRightTheBarkerEra.us",The Price is Right: The Barker Era [Geo-blocked]
+#EXTINF:-1 tvg-id="ThePriceIsRightTheBarkerEra.us",The Price is Right: The Barker Era [Geo-blocked] group-title="XUMO"
 https://amg00145-letsplayinc-thepriceisright-xumo-eqq6a.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us",The Walking Dead Universe
+#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us",The Walking Dead Universe group-title="XUMO"
 https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TheYoungTurks.us",The Young Turks (TYT) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TheYoungTurks.us",The Young Turks (TYT) (1080p) [Not 24/7] group-title="XUMO"
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
-#EXTINF:-1 tvg-id="ToonGoggles.us",Toon Goggles [Geo-blocked]
+#EXTINF:-1 tvg-id="ToonGoggles.us",Toon Goggles [Geo-blocked] group-title="XUMO"
 https://tg-tg-xumo.otteravision.com/tg/tg/tg.m3u8
-#EXTINF:-1 tvg-id="",Top Chef Vault
+#EXTINF:-1 tvg-id="",Top Chef Vault group-title="XUMO"
 https://xumo-xumoent-vc-116-hrcw0.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="TribecaChannel.us",Tribeca Channel [Geo-blocked]
+#EXTINF:-1 tvg-id="TribecaChannel.us",Tribeca Channel [Geo-blocked] group-title="XUMO"
 https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TBNEast.us",Trinity Broadcast Network
+#EXTINF:-1 tvg-id="TBNEast.us",Trinity Broadcast Network group-title="XUMO"
 https://d7ge95bb03xsu.cloudfront.net/out/v1/7ed92615b64b46d6b01e61f17463346e/tbn-xumo.m3u8
-#EXTINF:-1 tvg-id="",True History Channel
+#EXTINF:-1 tvg-id="",True History Channel group-title="XUMO"
 https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="",TV One Crime & Justice
+#EXTINF:-1 tvg-id="",TV One Crime & Justice group-title="XUMO"
 https://linear-593.frequency.stream/dist/xumo/593/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="",UFC
+#EXTINF:-1 tvg-id="",UFC group-title="XUMO"
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="",Universal Action
+#EXTINF:-1 tvg-id="",Universal Action group-title="XUMO"
 https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="",Universal Crime
+#EXTINF:-1 tvg-id="",Universal Crime group-title="XUMO"
 https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="",Universal Monsters
+#EXTINF:-1 tvg-id="",Universal Monsters group-title="XUMO"
 https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="",Universal Westerns
+#EXTINF:-1 tvg-id="",Universal Westerns group-title="XUMO"
 https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="USATODAY.us",USA Today News [Geo-blocked]
+#EXTINF:-1 tvg-id="USATODAY.us",USA Today News [Geo-blocked] group-title="XUMO"
 https://usatodaynews-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WaypointTV.us",WaypointTV
+#EXTINF:-1 tvg-id="WaypointTV.us",WaypointTV group-title="XUMO"
 https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Wild West TV
+#EXTINF:-1 tvg-id="",Wild West TV group-title="XUMO"
 https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WildEarth.uk",WildEarth
+#EXTINF:-1 tvg-id="WildEarth.uk",WildEarth group-title="XUMO"
 https://wildearth-xumo.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="",WMX Hip-Hop
+#EXTINF:-1 tvg-id="",WMX Hip-Hop group-title="XUMO"
 https://wmx-hiphop-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",WMX Pop
+#EXTINF:-1 tvg-id="",WMX Pop group-title="XUMO"
 https://wmx-pop-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",WMX Rock
+#EXTINF:-1 tvg-id="",WMX Rock group-title="XUMO"
 https://wmxrock-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WomensSportsNetwork.us",Women's Sports Network [Geo-blocked]
-https://womensnetwork-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WorldPokerTour.us",World Poker Tour
+#EXTINF:-1 tvg-id="WomensSportsNetwork.us",Women's Sports Network [Geo-blocked] group-title="XUMO"
+https://womensnetwork-xumo.amagi.tv/playlist.m3u8 group-title="XUMO"
+#EXTINF:-1 tvg-id="WorldPokerTour.us",World Poker Tour group-title="XUMO"
 https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="XploreTV.us",Xplore
+#EXTINF:-1 tvg-id="XploreTV.us",Xplore group-title="XUMO"
 https://xplore-xumo.amagi.tv/playlist.m3u8
 
-DOCTOR WHO
+
+
+#EXTINF:-1 tvg-id="DoctorWho",Xplore group-title="VARIOS"
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 DOCTOR WHO CLASSIC
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ce4475cd43850831ca91ce7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=532&terminate=false&userId=
