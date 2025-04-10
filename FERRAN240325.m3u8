@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-
+#EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml
 #Televisiones en general
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TV" tvg-name="La 1",La 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
