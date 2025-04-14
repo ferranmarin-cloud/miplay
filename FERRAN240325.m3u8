@@ -935,8 +935,7 @@ https://streamer-02.rtl.fr/rtl-1-44-128
 #EXTINF:-1 tvg-logo="" group-title="RADIO" tvg-name="Punto del Plata",Punto del Plata
 https://27433.live.streamtheworld.com/AM750AAC.aac
 #EXTINF:-1 tvg-logo="" group-title="RADIO" tvg-name="Onda del Plata",Onda del Plata
-#EXTINF:-1 tvg-logo="" group-title="RADIO" tvg-name="Punto del Plata",Punto del Plata
-https://27433.live.streamtheworld.com/AM750AAC.aac
+https://icecasthd.net/proxy/ondaplata/ondadelplata
 #EXTINF:-1 tvg-logo="https://images.hdqwalls.com/download/dua-lipa-2018-new-5k-qt-1920x1080.jpg?width=200&height=200" group-title="TEMA" tvg-name="DUA LIPA",DUA LIPA
 http://streaming.exclusive.radio/er/dualipa/icecast.audio
 #EXTINF:-1 tvg-logo="https://d3d0lqu00lnqvz.cloudfront.net/media/media/3b45ba41-d7eb-4532-ac4e-4e676e504c95.jpg?width=200&height=200" group-title="TEMA" tvg-name="ALANIS MORISSETTE",ALANIS MORISSETTE
