@@ -932,6 +932,8 @@ https://stream1.solstreaming.com:8112/stream
 http://sc6.radiocaroline.net:8040/stream.mp3
 #EXTINF:-1 tvg-logo="https://static1.purepeople.com/articles/5/26/49/25/@/3747226-logo-de-la-station-de-radio-rtl-950x0-2.jpeg?width=200&height=200" group-title="MÚSICA" tvg-name="RTL",RTL
 https://streamer-02.rtl.fr/rtl-1-44-128
+#EXTINF:-1 tvg-logo="https://www.icloud.com/attachment/?u=https%3A%2F%2Fcvws.icloud-content.com%2FB%2FAeDhl72I_IiVgULILjJx6fak0KiUAS91G0r-AlfOsPh7we-JSU3Q1E50%2F%24%7Bf%7D%3Fo%3DAoHHzMACP5fUNKZ4xJNn_fSpY-xXY1tfY6vmGXM7e3FJ%26v%3D1%26x%3D3%26a%3DCAogZtfbQhmv29VdQEfc2zaxVgdV6wCUsYsTYj0NnDZH9ZwSbRDr6O6s4zIY6_jpgO0yIgEAUgSk0KiUWgTQ1E50aiYk-UZoSMABp--nre0YDRKoH-8JEWHBHQmo5OWPLxzeRCTJ6J8V4nImTW-KZqz__y2Mn9WlXC6sZIDQk0gzDk1mrMysWEbBE9szsgjCehc%26e%3D1747248118%26fl%3D%26r%3D1355B1B8-C4E7-4F10-B166-1D3A7760C5A1-1%26k%3D%24%7Buk%7D%26ckc%3Dcom.apple.clouddocs%26ckz%3Dcom.apple.CloudDocs%26p%3D102%26s%3DC-5w3HUcbA85bw6xYxp8j74ydyw&uk=oxP11n1kOhSymZ99T7e8sA&f=Logo%20Punto%20del%20Plata.png&sz=11959" group-title="RADIO" tvg-name="Punto del Plata",Punto del Plata
+https://27433.live.streamtheworld.com/AM750AAC.aac
 #EXTINF:-1 tvg-logo="https://images.hdqwalls.com/download/dua-lipa-2018-new-5k-qt-1920x1080.jpg?width=200&height=200" group-title="TEMA" tvg-name="DUA LIPA",DUA LIPA
 http://streaming.exclusive.radio/er/dualipa/icecast.audio
 #EXTINF:-1 tvg-logo="https://d3d0lqu00lnqvz.cloudfront.net/media/media/3b45ba41-d7eb-4532-ac4e-4e676e504c95.jpg?width=200&height=200" group-title="TEMA" tvg-name="ALANIS MORISSETTE",ALANIS MORISSETTE
@@ -962,6 +964,7 @@ http://streaming.exclusive.radio/er/sia/icecast.audio
 http://streaming.exclusive.radio/er/beatles/icecast.audio
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/009/681/004/original/born-in-1962-vintage-retro-birthday-original-1962-aged-to-perfection-free-vector.jpg?width=200&height=200" group-title="TEMA" tvg-name="1962",1962
 https://streaming.ticktock.radio/tt-app/1962/icecast.audio
+
 #EXTINF:-1 group-title="CINE" tvg-id=PlutoCC" tvg-logo="https://images.pluto.tv/channels/64b9671cdac71b0008f371df/featuredImage.jpg?width=200&height=200" tvg-name="Pluto Cine Clásico",Pluto Cine Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p184181_b_h10_ad.jpg?width=200&height=200" group-title="CINE" tvg-name="ALFRED HITCHCOCK PRESENTS",ALFRED HITCHCOCK PRESENTS
@@ -1408,8 +1411,5 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id=“TRUTV EAST" tvg-logo=“https://logodix.com/logo/963036.jpg?width=200&height=200” group-title=“TV USA" tvg-name=“TRUTV EAST”,TRUTV EAST
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
-
 #EXTINF:-1 tvg-id=“WGN CHICAGO" tvg-logo=“https://logodix.com/logo/304410.jpg?width=200&height=200” group-title=“TV USA" tvg-name=“WGN CHICAGO - VPN”,WGN CHICAGO - VPN
 https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
-
-
