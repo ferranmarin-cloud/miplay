@@ -979,60 +979,83 @@ http://185.189.225.150:85/Hollywood/index.m3u8
 http://185.189.225.150:85/Eurosport2/index.m3u8
 #EXTINF:-1 tvg-id="AXN.TV" tvg-logo="https://pluspng.com/img-png/axn-logo-png-passion-in-the-axn-rebrand-665.jpg?width=200&height=200" group-title="GRUPO" tvg-name="AXN",AXN
 http://185.189.225.150:85/AXN/index.m3u8
+#EXTINF:-1 group-title="GRUPO" tvg-name="BBC 1",BBC 1
+http://185.189.225.150:85/BBC1/index.m3u8
 
-#EXTINF:-1 BBC1 HD group-title="GRUPO" 
-http://185.189.225.150:85/BBC1/index.m3u8 tvg-name="BBC 1",BBC 1
-#EXTINF:-1 AMC HD group-title="GRUPO" tvg-name="AMC",AMC
+#EXTINF:-1 group-title="GRUPO" tvg-name="AMC",AMC
 http://185.189.225.150:85/AMC/index.m3u8
-#EXTINF:-1 boing HD group-title="GRUPO" 
-http://185.189.225.150:85/boing/index.m3u8 tvg-name="Boing",Boing
-#EXTINF:-1 TCM group-title="GRUPO" tvg-name="TCM",TCM
-http://185.189.225.150:85/TCM/index.m3u8 
-#EXTINF:-1 tvg-id="SOMOS.TV" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/05f74609458855e3dd64ff0edfcf6fb1_SOMOS.png?width=200&height=200? group-title="GRUPO" tvg-name="Somos",Somos
-http://185.189.225.150:85/somos/index.m3u8
-#EXTINF:-1 BabyTV group-title="GRUPO" 
-http://185.189.225.150:85/BabyTV/index.m3u8
-#EXTINF:-1 star group-title="GRUPO" 
-http://185.189.225.150:85/star/index.m3u8
-#EXTINF:-1 RTL group-title="GRUPO" 
-http://185.189.225.150:85/RTL/index.m3u8
-#EXTINF:-1 NationalGeographic group-title="GRUPO" 
-http://185.189.225.150:85/NationalGeographic/index.m3u8
-#EXTINF:-1 MTV group-title="GRUPO" 
-http://185.189.225.150:85/MTV/index.m3u8
-#EXTINF:-1 TV2 HD group-title="GRUPO" 
-http://185.189.225.150:85/TV2/index.m3u8
-#EXTINF:-1 cctv group-title="GRUPO" 
-http://185.189.225.150:85/cctv/index.m3u8
-#EXTINF:-1 calle13 group-title="GRUPO" 
-http://185.189.225.150:85/calle13/index.m3u8
-#EXTINF:-1 comedycentral group-title="GRUPO" 
-http://185.189.225.150:85/comedycentral/index.m3u8
-#EXTINF:-1 foodnetwork group-title="GRUPO" 
-http://185.189.225.150:85/foodnetwork/index.m3u8
-#EXTINF:-1 nickelodeon group-title="GRUPO" 
-http://185.189.225.150:85/nickelodeon/index.m3u8
-#EXTINF:-1 mega group-title="GRUPO" 
-http://185.189.225.150:85/mega/index.m3u8
-#EXTINF:-1 nova group-title="GRUPO" 
-http://185.189.225.150:85/nova/index.m3u8
-#EXTINF:-1 odisea HD group-title="GRUPO" 
-http://185.189.225.150:85/odisea/index.m3u8
-#EXTINF:-1 syfy group-title="GRUPO" 
-http://185.189.225.150:85/syfy/index.m3u8
-#EXTINF:-1 tv3 HD group-title="GRUPO" 
-http://185.189.225.150:85/tv3/index.m3u8
-#EXTINF:-1 natgeowild group-title="GRUPO" 
-http://185.189.225.150:85/natgeowild/index.m3u8
-#EXTINF:-1 Paramount HD group-title="GRUPO" 
-http://185.189.225.150:85/Paramount/index.m3u8
-#EXTINF:-1 MTVHits group-title="GRUPO" 
-http://185.189.225.150:85/MTVHits/index.m3u8
-#EXTINF:-1 Eurosport1 HD group-title="GRUPO" 
-http://185.189.225.150:85/Eurosport1/index.m3u8
-#EXTINF:-1 12TV HD group-title="GRUPO" 
-http://185.189.225.150:85/12TV/index.m3u8
 
+#EXTINF:-1 group-title="GRUPO" tvg-name="Boing",Boing
+http://185.189.225.150:85/boing/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="TCM",TCM
+http://185.189.225.150:85/TCM/index.m3u8
+
+#EXTINF:-1 tvg-id="SOMOS.TV" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/05f74609458855e3dd64ff0edfcf6fb1_SOMOS.png?width=200&height=200?" group-title="GRUPO" tvg-name="Somos",Somos
+http://185.189.225.150:85/somos/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="BabyTV",BabyTV
+http://185.189.225.150:85/BabyTV/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="Star",Star
+http://185.189.225.150:85/star/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="RTL",RTL
+http://185.189.225.150:85/RTL/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="National Geographic",National Geographic
+http://185.189.225.150:85/NationalGeographic/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="MTV",MTV
+http://185.189.225.150:85/MTV/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="TV2",TV2
+http://185.189.225.150:85/TV2/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="CCTV",CCTV
+http://185.189.225.150:85/cctv/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="Calle 13",Calle 13
+http://185.189.225.150:85/calle13/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="Comedy Central",Comedy Central
+http://185.189.225.150:85/comedycentral/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="Food Network",Food Network
+http://185.189.225.150:85/foodnetwork/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="Nickelodeon",Nickelodeon
+http://185.189.225.150:85/nickelodeon/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="Mega",Mega
+http://185.189.225.150:85/mega/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="Nova",Nova
+http://185.189.225.150:85/nova/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="Odisea",Odisea
+http://185.189.225.150:85/odisea/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="Syfy",Syfy
+http://185.189.225.150:85/syfy/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="TV3",TV3
+http://185.189.225.150:85/tv3/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="Nat Geo Wild",Nat Geo Wild
+http://185.189.225.150:85/natgeowild/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="Paramount",Paramount
+http://185.189.225.150:85/Paramount/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="MTV Hits",MTV Hits
+http://185.189.225.150:85/MTVHits/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="Eurosport 1",Eurosport 1
+http://185.189.225.150:85/Eurosport1/index.m3u8
+
+#EXTINF:-1 group-title="GRUPO" tvg-name="12 TV",12 TV
+http://185.189.225.150:85/12TV/index.m3u8
 # Todo XUMO
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us",AccuWeather Now [Geo-blocked] group-title="XUMO"
 https://accuweather-xumo.amagi.tv/playlist.m3u8
