@@ -804,9 +804,9 @@ https://tvpass.org/live/tsn4/hd
 https://tvpass.org/live/tsn5/sd
 #EXTINF:-1,tvg-id="tsn5" TSN5 HD" group-title="TV USA",TSN5 HD
 https://tvpass.org/live/tsn5/hd
-#EXTINF:-1,tvg-id="turner-classic-movies-usa" Turner Classic Movies USA SD" group-title="TV USA",Turner Classic Movies USA SD
+#EXTINF:-1,tvg-id="turner-classic-movies-usa" Turner Classic Movies USA SD" tvg-logo="https://brandemia.org/contenido/subidas/2021/09/02-tcm-1.jpg?width=200&height=200" group-title="TV USA",Turner Classic Movies USA SD 
 https://tvpass.org/live/TCMEast/sd
-#EXTINF:-1,tvg-id="turner-classic-movies-usa" Turner Classic Movies USA HD" group-title="TV USA",Turner Classic Movies USA HD
+#EXTINF:-1,tvg-id="turner-classic-movies-usa" Turner Classic Movies USA HD" tvg-logo="https://brandemia.org/contenido/subidas/2021/09/02-tcm-1.jpg?width=200&height=200" group-title="TV USA",Turner Classic Movies USA HD 
 https://tvpass.org/live/TCMEast/hd
 #EXTINF:-1,tvg-id="tv-land-eastern" TV Land Eastern SD" group-title="TV USA",TV Land Eastern SD
 https://tvpass.org/live/tv-land-eastern/sd
