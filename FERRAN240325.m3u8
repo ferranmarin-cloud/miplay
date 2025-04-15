@@ -22,7 +22,7 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:-1,tvg-id="FDF.TV" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2009/08/factoria_de_ficcion_logo.jpg?width=200&height=200" group-title="TV" FDF",FDF
 http://185.189.225.150:85/fdf/index.m3u8
 #EXTINF:-1,tvg-id="Boing.TV" tvg-logo="http://www.ocendi.com/wp-content/themes/ocendi/style/post/2010/09/Logo_boing.jpg?width=200&height=200" group-title="TV" BOING",BOING
-https://185.189.225.150:85/boing/index.m3u8
+https://185.189.225.150:85/Boing/index.m3u8
 #EXTINF:-1,tvg-id="LaSexta.TV" tvg-logo="https://i.imgur.com/aKV5voq.png?width=200&height=200" group-title="TV",La Sexta
 http://185.189.225.150:85/LaSexta/index.m3u8
 #EXTINF:-1,tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg?width=200&height=200" group-title="CINE",8madrid TV
