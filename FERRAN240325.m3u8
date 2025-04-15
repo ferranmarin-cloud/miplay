@@ -94,7 +94,7 @@ https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3
 https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1,tvg-id="ETB2.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="TV",ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTINF:-1,tvg-id="ETBSAT.TV" tvg-logo="https://4.bp.blogspot.com/-kxXCGxWvGrQ/VFlSNijf3GI/AAAAAAAABjI/czdP032QdeE/s1600/etb-sat-en-directo%2C-online%2C-en-vivo%2C-canal-vasco%2C-.png?width=200&height=200" group-title="TV",ETB Basque
+#EXTINF:-1,tvg-id="ETBSAT.TV" tvg-logo="https://4.bp.blogspot.com/-kxXCGxWvGrQ/VFlSNijf3GI/AAAAAAAABjI/czdP032QdeE/s1600/etb-sat-en-directo%2C-online%2C-en-vivo%2C-canal-vasco%2C-.png?width=200&height=200" group-title="TV",ETB SAT
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1,tvg-id="7RM.TV" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title="TV",7 R. de Murcia
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
