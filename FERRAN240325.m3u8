@@ -21,6 +21,8 @@ http://185.189.225.150:85/nova/index.m3u8
 http://185.189.225.150:85/neox/index.m3u8
 #EXTINF:-1,tvg-id="MEGA.TV" tvg-logo="http://arabast.com/wp-content/uploads/2015/06/Logotipo-de-Mega.jpg?width=200&height=200" group-title="TV",MEGA
 http://185.189.225.150:85/mega/index.m3u8
+#EXTINF:-1,tvg-id="ATRESERIES.TV" tvg-logo="https://fotografias.atresmediapublicidad.com/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B/58.jpg?width=200&height=200" group-title="TV",ATRESERIES
+http://181.78.109.48:8000/play/a00l/index.m3u8
 #EXTINF:-1,tvg-id="Cuatro.TV" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_circular_500_-1_d4a5.png?width=200&height=200" group-title="TV",Cuatro
 http://185.189.225.150:85/CuatroHD/index.m3u8
 #EXTINF:-1,tvg-id="Telecinco.TV" tvg-logo="https://estaticos-cdn.prensaiberica.es/clip/d2cc7e1c-0945-40f3-b587-7abf2f36d608_16-9-discover-aspect-ratio_default_0.jpg?width=200&height=200" group-title="TV",Telecinco
@@ -84,7 +86,7 @@ https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 #EXTINF:-1,tvg-id="APUNT.TV" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="TV",À Punt
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
-#EXTINF:-1,tvg-id="BONDIA.TV" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="TV",Bon Dia TV
+#EXTINF:-1,tvg-id="BONDIA.TV" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/bon-dia-tv.png?width=200&height=200" group-title="TV",Bon Dia TV
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 #EXTINF:-1,tvg-id="7Televalencia.TV" tvg-logo="https://pbs.twimg.com/profile_images/1876660632478437376/rbEqYeqC_200x200.jpg" group-title="TV",7 TeleValencia
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
