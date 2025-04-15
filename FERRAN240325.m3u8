@@ -852,7 +852,7 @@ https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40a
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 #EXTINF:-1,tvg-id="A3P_AquiNoHayQ.TV" tvg-logo="https://graph.facebook.com/AQUINHQV/picture?width=200&height=200" group-title="FAST",Aquí no hay quién viva
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
-#EXTINF:-1,tvg-id="A3P_FisicaOQuimica.TV" tvg-logo="https://graph.facebook.com/fisicaoquimica/picture?width=200&height=200" group-title="FAST,Física o química
+#EXTINF:-1,tvg-id="A3P_FisicaOQuimica.TV" tvg-logo="https://graph.facebook.com/fisicaoquimica/picture?width=200&height=200" group-title="FAST",Física o química
 https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
 #EXTINF:-1,tvg-id="RTVE_Estrellas.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="FAST",RTVE La Moderna
 https://ztnr.rtve.es/ztnr/2472038.m3u8
@@ -924,7 +924,7 @@ https://stream1.solstreaming.com:8112/stream
 http://sc6.radiocaroline.net:8040/stream.mp3
 #EXTINF:-1,tvg-logo="https://static1.purepeople.com/articles/5/26/49/25/@/3747226-logo-de-la-station-de-radio-rtl-950x0-2.jpeg?width=200&height=200" group-title="MÚSICA",RTL
 https://streamer-02.rtl.fr/rtl-1-44-128
-#EXTINF:-1,tvg-logo="" group-title="RADIO,Punto del Plata
+#EXTINF:-1,tvg-logo="" group-title="RADIO",Punto del Plata
 https://27433.live.streamtheworld.com/AM750AAC.aac
 #EXTINF:-1,tvg-logo="" group-title="RADIO",,Onda del Plata
 https://icecasthd.net/proxy/ondaplata/ondadelplata
