@@ -1,5 +1,4 @@
 #EXTM3U
-#Televisiones en general
 #EXTINF:-1,tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TV" tvg-name="La 1",La 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1,tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TV" tvg-name="La 2",La 2
@@ -137,8 +136,6 @@ https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
 https://cvtv.cvalley.net/hls/KMBCMeTV/live/pkgKMBCMeTVLo.m3u8
 #EXTINF:-1,tvg-id="ION PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png?width=200&height=200" group-title="TV INT'L",ION PLUS
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
-
-#Radios en general
 #EXTINF:-1,tvg-id="RNE.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="RADIO" tvg-name="RADIO Nacional",Radio Nacional
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r1_main.m3u8
 #EXTINF:-1,tvg-id="RNE3.Radio" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="MÚSICA" tvg-name="RADIO 3 RNE",Radio 3 RNE
@@ -203,8 +200,6 @@ https://19313.live.streamtheworld.com/NBC_MSNBCAAC/HLS/playlist.m3u8
 http://27823.live.streamtheworld.com:3690/AFNE_RTA_SC
 #EXTINF:-1,tvg-logo="https://los40ar00.epimg.net/los40/imagenes/2024/01/19/actualidad/1705690603_054172_1705690808_noticia_normal.jpg?width=200&height=200" group-title="RADIO" tvg-name=“LOS 40 USA”,LOS 40 USA
 https://streams.streamkast.co/streamkast/los40/icecast.audio
-
-#TV PASS
 #EXTINF:-1,tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed SD" group-title="TV USA",A&E US Eastern Feed SD
 https://tvpass.org/live/AEEast/sd
 #EXTINF:-1,tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed HD" group-title="TV USA",A&E US Eastern Feed HD
@@ -837,8 +832,6 @@ https://tvpass.org/live/WPIX/hd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1,tvg-id="yes-network" tvg-name="Yes Network HD" group-title="TV USA",Yes Network HD
 https://tvpass.org/live/yes-network/hd
-
-#CANALES FAST ESPAÑA
 #EXTINF:-1,tvg-id="Flooxer.TV" tvg-logo="https://img.europapress.net/fotoweb/fotonoticia_20151117160020_1280.jpg?width=200&height=200" group-title="FAST" tvg-name="flooxer",flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 #EXTINF:-1,tvg-id="A3P_Clasicos.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="FAST" tvg-name="Atresplayer Clásicos",Atresplayer Clásicos
@@ -875,8 +868,6 @@ https://ztnr.rtve.es/ztnr/6922467.m3u8
 https://ztnr.rtve.es/ztnr/6924117.m3u8
 #EXTINF:-1,tvg-id="RTVE_LateXou.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="FAST" tvg-name="RTVE Late Xou",RTVE Late Xou
 https://ztnr.rtve.es/ztnr/2472037.m3u8
-
-# Musicales
 #EXTINF:-1,tvg-id="BIKINI FM" tvg-logo="https://cdn-profiles.tunein.com/s199413/images/logod.png?t=638116970160000000?width=200&height=200" group-title="MÚSICA" tvg-name="BIKINI FM",BIKINI FM
 https://stream.emisorasmusicales.net/listen/bikini_fm/bikinifm-vlc.mp3
 #EXTINF:-1,tvg-id="VIRGIN RADIO" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/Virgin-Radio_Logo_Main_Screen.png?t=638116970160000000?width=200&height=200" group-title="MÚSICA" tvg-name="VIRGIN RADIO",VIRGIN RADIO
@@ -935,13 +926,10 @@ https://streamer-02.rtl.fr/rtl-1-44-128
 https://27433.live.streamtheworld.com/AM750AAC.aac
 #EXTINF:-1,tvg-logo="" group-title="RADIO" tvg-name="Onda del Plata",Onda del Plata
 https://icecasthd.net/proxy/ondaplata/ondadelplata
-
 #EXTINF:-1,tvg-logo="" group-title="RADIO" tvg-name="Radio Habana",Radio Habana
 https://icecast.teveo.cu/McW3fLhs
 #EXTINF:-1,tvg-logo="" group-title="RADIO" tvg-name="Radio Rebelde",Radio Rebelde
 https://icecast.teveo.cu/kHKL7tWd
-
-
 #EXTINF:-1,tvg-logo="https://images.hdqwalls.com/download/dua-lipa-2018-new-5k-qt-1920x1080.jpg?width=200&height=200" group-title="TEMA" tvg-name="DUA LIPA",DUA LIPA
 http://streaming.exclusive.radio/er/dualipa/icecast.audio
 #EXTINF:-1,tvg-logo="https://d3d0lqu00lnqvz.cloudfront.net/media/media/3b45ba41-d7eb-4532-ac4e-4e676e504c95.jpg?width=200&height=200" group-title="TEMA" tvg-name="ALANIS MORISSETTE",ALANIS MORISSETTE
@@ -972,13 +960,10 @@ http://streaming.exclusive.radio/er/sia/icecast.audio
 http://streaming.exclusive.radio/er/beatles/icecast.audio
 #EXTINF:-1,tvg-logo="https://static.vecteezy.com/system/resources/previews/009/681/004/original/born-in-1962-vintage-retro-birthday-original-1962-aged-to-perfection-free-vector.jpg?width=200&height=200" group-title="TEMA" tvg-name="1962",1962
 https://streaming.ticktock.radio/tt-app/1962/icecast.audio
-
 #EXTINF:-1,group-title="CINE" tvg-id=PlutoCC" tvg-logo="https://images.pluto.tv/channels/64b9671cdac71b0008f371df/featuredImage.jpg?width=200&height=200" tvg-name="Pluto Cine Clásico",Pluto Cine Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,tvg-logo="https://ntvb.tmsimg.com/assets/p184181_b_h10_ad.jpg?width=200&height=200" group-title="CINE" tvg-name="ALFRED HITCHCOCK PRESENTS",ALFRED HITCHCOCK PRESENTS
 https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
-
-#Lista Directa "GRUPO"
 #EXTINF:-1,tvg-id="HOLLYWOOD.TV" tvg-logo="https://amcnetworks.es/wp-content/uploads/2018/08/HOLLYWOOD.jpg?width=200&height=200" group-title="CINE" tvg-name="Hollywood",Hollywood
 http://185.189.225.150:85/Hollywood/index.m3u8
 #EXTINF:-1,tvg-id="EUROSPORT2.TV" tvg-logo="https://www.universfreebox.com/UserFiles/image/eurosport2.jpg?width=200&height=200" group-title="GRUPO" tvg-name="Eurosport 2",Eurosport 2
@@ -987,82 +972,56 @@ http://185.189.225.150:85/Eurosport2/index.m3u8
 http://185.189.225.150:85/AXN/index.m3u8
 #EXTINF:-1,group-title="GRUPO" tvg-name="BBC 1",BBC 1
 http://185.189.225.150:85/BBC1/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="AMC",AMC
 http://185.189.225.150:85/AMC/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="Boing",Boing
 http://185.189.225.150:85/boing/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="TCM",TCM
 http://185.189.225.150:85/TCM/index.m3u8
-
 #EXTINF:-1,tvg-id="SOMOS.TV" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/05f74609458855e3dd64ff0edfcf6fb1_SOMOS.png?width=200&height=200?" group-title="GRUPO" tvg-name="Somos",Somos
 http://185.189.225.150:85/somos/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="BabyTV",BabyTV
 http://185.189.225.150:85/BabyTV/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="Star",Star
 http://185.189.225.150:85/star/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="RTL",RTL
 http://185.189.225.150:85/RTL/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="National Geographic",National Geographic
 http://185.189.225.150:85/NationalGeographic/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="MTV",MTV
 http://185.189.225.150:85/MTV/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="TV2",TV2
 http://185.189.225.150:85/TV2/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="CCTV",CCTV
 http://185.189.225.150:85/cctv/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="Calle 13",Calle 13
 http://185.189.225.150:85/calle13/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="Comedy Central",Comedy Central
 http://185.189.225.150:85/comedycentral/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="Food Network",Food Network
 http://185.189.225.150:85/foodnetwork/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="Nickelodeon",Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="Mega",Mega
 http://185.189.225.150:85/mega/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="Nova",Nova
 http://185.189.225.150:85/nova/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="Odisea",Odisea
 http://185.189.225.150:85/odisea/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="Syfy",Syfy
 http://185.189.225.150:85/syfy/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="TV3",TV3
 http://185.189.225.150:85/tv3/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="Nat Geo Wild",Nat Geo Wild
 http://185.189.225.150:85/natgeowild/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="Paramount",Paramount
 http://185.189.225.150:85/Paramount/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="MTV Hits",MTV Hits
 http://185.189.225.150:85/MTVHits/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="Eurosport 1",Eurosport 1
 http://185.189.225.150:85/Eurosport1/index.m3u8
-
 #EXTINF:-1,group-title="GRUPO" tvg-name="12 TV",12 TV
 http://185.189.225.150:85/12TV/index.m3u8
-# Todo XUMO
 #EXTINF:-1,tvg-id="AccuWeatherNOW.us",AccuWeather Now [Geo-blocked] group-title="XUMO"
 https://accuweather-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1,tvg-id="",Alfred Hitchcock Presents group-title="XUMO"
@@ -1407,9 +1366,6 @@ https://womensnetwork-xumo.amagi.tv/playlist.m3u8 group-title="XUMO"
 https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
 #EXTINF:-1,tvg-id="XploreTV.us",Xplore group-title="XUMO"
 https://xplore-xumo.amagi.tv/playlist.m3u8
-
-
-
 #EXTINF:-1,tvg-id="DoctorWho",group-title="VARIOS", Doctor Who
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,group-title="VARIOS", DOCTOR WHO CLASSIC
