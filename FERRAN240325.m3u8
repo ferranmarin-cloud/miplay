@@ -991,17 +991,17 @@ http://185.189.225.150:85/Eurosport2/index.m3u8
 http://185.189.225.150:85/AXN/index.m3u8
 #EXTINF:-1,group-title="🛰️ GRUPO",BBC 1
 http://185.189.225.150:85/BBC1/index.m3u8
-#EXTINF:-1,group-title="🛰️ GRUPO",AMC
+#EXTINF:-1,tvg-logo="https://tvhistoria.com.br/wp-content/uploads/2020/12/canal-amc-logo.jpg?width=200&height=200" group-title="🛰️ GRUPO",AMC
 http://185.189.225.150:85/AMC/index.m3u8
 #EXTINF:-1,group-title="🛰️ GRUPO",Boing
 http://185.189.225.150:85/boing/index.m3u8
 #EXTINF:-1,tvg-logo="https://brandemia.org/contenido/subidas/2021/09/02-tcm-1.jpg?width=200&height=200" group-title="🛰️ GRUPO",TCM 
 http://185.189.225.150:85/TCM/index.m3u8
-#EXTINF:-1,tvg-id="SOMOS.TV" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/05f74609458855e3dd64ff0edfcf6fb1_SOMOS.png?width=200&height=200?" group-title="🛰️ GRUPO",Somos
+#EXTINF:-1,tvg-id="SOMOS.TV" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/05f74609458855e3dd64ff0edfcf6fb1_SOMOS.png?width=200&height=200" group-title="🛰️ GRUPO",Somos
 http://185.189.225.150:85/somos/index.m3u8
 #EXTINF:-1,group-title="🛰️ GRUPO",BabyTV
 http://185.189.225.150:85/BabyTV/index.m3u8
-#EXTINF:-1,group-title="🛰️ GRUPO",Star
+#EXTINF:-1,tvg-logo="https://popnow.com.br/wp-content/uploads/2021/02/original_1614011637_STAR-CHANNEL-LOGO.jpg?width=200&height=200" group-title="🛰️ GRUPO",Star
 http://185.189.225.150:85/star/index.m3u8
 #EXTINF:-1,group-title="🛰️ GRUPO",RTL
 http://185.189.225.150:85/RTL/index.m3u8
@@ -1013,7 +1013,7 @@ http://185.189.225.150:85/MTV/index.m3u8
 http://185.189.225.150:85/TV2/index.m3u8
 #EXTINF:-1,group-title="🛰️ GRUPO",CCTV
 http://185.189.225.150:85/cctv/index.m3u8
-#EXTINF:-1,group-title="🛰️ GRUPO",Calle 13
+#EXTINF:-1,tvg-logo="https://www.calle13.es/sites/default/files/logo-calle3_16x9_v01.jpg?width=200&height=200" group-title="🛰️ GRUPO",Calle 13
 http://185.189.225.150:85/calle13/index.m3u8
 #EXTINF:-1,group-title="🛰️ GRUPO",Comedy Central
 http://185.189.225.150:85/comedycentral/index.m3u8
