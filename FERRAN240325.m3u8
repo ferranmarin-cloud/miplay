@@ -152,6 +152,8 @@ https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
 https://cvtv.cvalley.net/hls/KMBCMeTV/live/pkgKMBCMeTVLo.m3u8
 #EXTINF:-1,tvg-id="ION PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png?width=200&height=200" group-title=" 📡 TV INT'L",ION PLUS
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM PARIS
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
 
 #EXTINF:-1,tvg-id="RNE.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="📻 RADIO",RADIO Nacional
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r1_main.m3u8
