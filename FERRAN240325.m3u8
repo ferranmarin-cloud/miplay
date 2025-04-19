@@ -219,6 +219,9 @@ https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title=" 📡 TV INT'L",BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 
+#EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20121007054058/disney/images/3/3a/2000px-ESPN_Deportes_logo.png?width=200&height=200" group-title=" 📡 TV INT'L",ESPN DEPORTES
+http://190.92.10.66:4000/play/a003/index.m3u8
+
 #EXTINF:-1,tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png?width=200&height=200" group-title=" 📡 TV INT'L",BBC News North America
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
