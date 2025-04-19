@@ -222,6 +222,9 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20121007054058/disney/images/3/3a/2000px-ESPN_Deportes_logo.png?width=200&height=200" group-title=" 📡 TV INT'L",ESPN DEPORTES
 http://190.92.10.66:4000/play/a003/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://eloutput.com/wp-content/uploads/2024/02/laliga-tv-inside-logo.jpg?width=200&height=200" group-title=" 📡 TV INT'L",LA LIGA INSIDE
+https://daiconnect.com/live/hls/tvup/rk-ligainside/.m3u8
+
 #EXTINF:-1,tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png?width=200&height=200" group-title=" 📡 TV INT'L",BBC News North America
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
