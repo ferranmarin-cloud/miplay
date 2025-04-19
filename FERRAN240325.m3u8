@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-VERSION:3
 #EXTINF:-1,tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg?width=200&height=200" group-title="📺 TV",La 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
@@ -2214,3 +2215,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 
 #EXTINF,CNBC EUROPE
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
+
+#EXTINF:-1,CANNES LERINS TV
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+
