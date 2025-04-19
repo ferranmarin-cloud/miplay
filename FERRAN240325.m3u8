@@ -2219,3 +2219,8 @@ https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlis
 #EXTINF:-1,CANNES LERINS TV
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 
+#EXTINF:-1,BOM RADIO
+https://helm.bomradio.com
+
+#EXTINF:-1,RELAX FM
+https://28513.live.streamtheworld.com/RELAX_FM.mp3
